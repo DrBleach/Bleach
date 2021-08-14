@@ -1,0 +1,6 @@
+owner = WLL
+controller = WLL
+add_core = WLL
+add_core = FRA
+trade_goods = coal
+life_rating = 31

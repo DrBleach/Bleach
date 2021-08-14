@@ -1,0 +1,46 @@
+##Sokoto - Adamawa Emirate
+#vassal = {
+#    first = SOK
+#    second = ADW
+#    start_date = 1808.1.1
+#    end_date = 1936.1.1
+#}
+
+##Wadai - Baguirmi
+#vassal = {
+#    first = WAD
+#    second = BRM
+#    start_date = 1808.1.1
+#    end_date = 1936.1.1
+#}
+
+##Substates of the Argentine Confederation
+substate = {
+    first = ARC
+    second = ENT
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+substate = {
+    first = ARC
+    second = CRT
+    start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+#########1861
+# Siam - Cambodia
+vassal = {
+    first = SIA
+    second = CAM
+    start_date = 1861.1.1
+    end_date = 1936.1.1
+}
+
+# Siam - Champasak
+vassal = {
+    first = SIA
+    second = CHK
+    start_date = 1836.1.1
+    end_date =  1936.1.1
+}

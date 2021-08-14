@@ -1,0 +1,52 @@
+army = {
+    name = "The Calcutta Army"
+    location = 1256
+    regiment = {
+        name= "1.Calcutta Contingent"
+        type = infantry
+        home = 1251
+    }
+
+    regiment = {
+        name= "2.Calcutta Contingent"
+        type = infantry
+        home = 1251
+    }
+
+    regiment = {
+        name= "3.Calcutta Contingent"
+        type = infantry
+        home = 1254
+    }
+}
+army = {
+    name = "Provincial Army of Bhutan"
+    location = 1329
+    regiment = {
+        name= "1.Tongsa Militia"
+        type = irregular
+        home = 1329
+    }
+}
+army = {
+    name = "Army of the Eastern Frontier"
+    location = 2566
+    regiment = {
+        name= "1.Garhwali Infantry"
+        type = irregular
+        home = 1258
+    }
+
+    regiment = {
+        name= "2.Garhwali Infantry"
+        type = irregular
+        home = 2566
+    }
+
+    regiment = {
+        name= "3.Garhwali Infantry"
+        type = irregular
+        home = 1254
+    }
+
+}

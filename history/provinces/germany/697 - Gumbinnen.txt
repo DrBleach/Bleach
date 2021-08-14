@@ -1,0 +1,9 @@
+owner = RUT
+controller = RUT
+add_core = UBD
+add_core = RUT
+add_core = DZG
+add_core = LIT
+trade_goods = grain
+life_rating = 40
+1861.1.1 = { railroad = 3 }

@@ -1,0 +1,662 @@
+#Ulster Region - 1846000
+#under rule of Britain 1836
+#Belfast (540000/135000 POPs)
+254 = {
+
+    clergymen = {
+        culture = irish
+        religion = coptic
+        size = 250
+    }
+
+    soldiers = {
+        culture = irish
+        religion = coptic
+        size = 100
+    }
+
+    artisans = {
+        culture = irish
+        religion = coptic
+        size = 5400
+    }
+
+    farmers = {
+        culture = irish
+        religion = coptic
+        size = 60250
+    }
+
+    aristocrats = {
+        culture = anglois
+        religion = coptic
+        size = 1100
+    }
+
+    officers = {
+        culture = irish
+        religion = coptic
+        size = 250
+    }
+
+    bureaucrats = {
+        culture = irish
+        religion = coptic
+        size = 1125
+    }
+
+    clergymen = {
+        culture = irish
+        religion = coptic
+        size = 500
+    }
+
+    soldiers = {
+        culture = irish
+        religion = coptic
+        size = 1250
+    }
+
+    artisans = {
+        culture = low_scottish
+        religion = coptic
+        size = 4000
+    }
+
+    artisans = {
+        culture = irish
+        religion = coptic
+        size = 8000
+    }
+
+    farmers = {
+        culture = low_scottish
+        religion = coptic
+        size = 30875
+    }
+}
+#Londonderry (524000/131000 POPS)
+255 = {
+    farmers = {
+        culture = irish
+        religion = coptic
+        size = 9000
+    }
+
+    clergymen = {
+        culture = irish
+        religion = coptic
+        size = 375
+    }
+
+    artisans = {
+        culture = irish
+        religion = coptic
+        size = 1500
+    }
+
+    soldiers = {
+        culture = irish
+        religion = coptic
+        size = 500
+    }
+
+    farmers = {
+        culture = irish
+        religion = coptic
+        size = 66625
+    }
+
+    aristocrats = {
+        culture = irish
+        religion = coptic
+        size = 500
+    }
+
+    clergymen = {
+        culture = irish
+        religion = coptic
+        size = 250
+    }
+
+    artisans = {
+        culture = irish
+        religion = coptic
+        size = 5000
+    }
+
+    soldiers = {
+        culture = irish
+        religion = coptic
+        size = 1100
+    }
+
+    farmers = {
+        culture = low_scottish
+        religion = coptic
+        size = 15000
+    }
+    farmers = {
+        culture = high_scottish
+        religion = coptic
+        size = 7250
+    }
+}
+#Armagh (274000/68500 POPS)
+256 = {
+    farmers = {
+        culture = irish
+        religion = coptic
+        size = 37500
+    }
+
+    farmers = {
+        culture = high_scottish
+        religion = coptic
+        size = 8000
+    }
+
+    clergymen = {
+        culture = irish
+        religion = coptic
+        size = 250
+    }
+
+    artisans = {
+        culture = irish
+        religion = coptic
+        size = 500
+    }
+
+    soldiers = {
+        culture = irish
+        religion = coptic
+        size = 250
+    }
+
+    aristocrats = {
+        culture = anglois
+        religion = coptic
+        size = 250
+    }
+
+    clergymen = {
+        culture = irish
+        religion = coptic
+        size = 250
+    }
+
+    artisans = {
+        culture = low_scottish
+        religion = coptic
+        size = 2500
+    }
+
+    soldiers = {
+        culture = irish
+        religion = coptic
+        size = 1100
+    }
+
+    farmers = {
+        culture = low_scottish
+        religion = coptic
+        size = 18000
+    }
+}
+#Donegal (508000/127000 POPS)
+257 = {
+    farmers = {
+        culture = high_scottish
+        religion = coptic
+        size = 12000
+    }
+
+    aristocrats = {
+        culture = irish
+        religion = coptic
+        size = 250
+    }
+
+    clergymen = {
+        culture = irish
+        religion = coptic
+        size = 250
+    }
+
+    artisans = {
+        culture = irish
+        religion = coptic
+        size = 3750
+    }
+
+    soldiers = {
+        culture = irish
+        religion = coptic
+        size = 500
+    }
+
+    farmers = {
+        culture = irish
+        religion = coptic
+        size = 85250
+    }
+
+    clergymen = {
+        culture = anglois
+        religion = coptic
+        size = 50
+    }
+
+    artisans = {
+        culture = high_scottish
+        religion = coptic
+        size = 2250
+    }
+
+    soldiers = {
+        culture = irish
+        religion = coptic
+        size = 125
+    }
+
+    farmers = {
+        culture = low_scottish
+        religion = coptic
+        size = 2575
+    }
+
+}
+#Connaught Region - 1316000
+#under rule of Britain 1836
+#Galway (548000/137000 POPS)
+258 = {
+    aristocrats = {
+        culture = irish
+        religion = coptic
+        size = 500
+    }
+
+    clergymen = {
+        culture = irish
+        religion = coptic
+        size = 1250
+    }
+
+    artisans = {
+        culture = irish
+        religion = coptic
+        size = 9000
+    }
+
+    soldiers = {
+        culture = irish
+        religion = coptic
+        size = 1500
+    }
+
+    farmers = {
+        culture = irish
+        religion = coptic
+        size = 126750
+    }
+}
+#Sligo (768000/192000 POPs)
+259 = {
+    bureaucrats = {
+        culture = irish
+        religion = coptic
+        size = 500
+    }
+
+    bureaucrats = {
+        culture = irish
+        religion = coptic
+        size = 250
+    }
+
+    aristocrats = {
+        culture = irish
+        religion = coptic
+        size = 1100
+    }
+
+    clergymen = {
+        culture = irish
+        religion = coptic
+        size = 2000
+    }
+
+    artisans = {
+        culture = irish
+        religion = coptic
+        size = 9500
+    }
+
+    soldiers = {
+        culture = irish
+        religion = coptic
+        size = 2500
+    }
+
+    farmers = {
+        culture = irish
+        religion = coptic
+        size = 135000
+    }
+
+    farmers = {
+        culture = high_scottish
+        religion = coptic
+        size = 11250
+    }
+
+}
+#Munster Region - 2244000
+#under rule of Britain 1836
+#Cork (890000/224000 POPS)
+260 = {
+    aristocrats = {
+        culture = anglois
+        religion = coptic
+        size = 400
+    }
+
+    bureaucrats = {
+        culture = anglois
+        religion = coptic
+        size = 2000
+    }
+
+    officers = {
+        culture = anglois
+        religion = coptic
+        size = 500
+    }
+
+    clergymen = {
+        culture = anglois
+        religion = coptic
+        size = 1500
+    }
+
+    artisans = {
+        culture = anglois
+        religion = coptic
+        size = 10000
+    }
+
+    artisans = {
+        culture = irish
+        religion = coptic
+        size = 10000
+    }
+
+    artisans = {
+        culture = irish
+        religion = coptic
+        size = 2000
+    }
+
+    soldiers = {
+        culture = irish
+        religion = coptic
+        size = 1500
+    }
+
+    farmers = {
+        culture = irish
+        religion = coptic
+        size = 135350
+    }
+
+    aristocrats = {
+        culture = irish
+        religion = coptic
+        size = 900
+    }
+
+    bureaucrats = {
+        culture = anglois
+        religion = coptic
+        size = 750
+    }
+
+    officers = {
+        culture = irish
+        religion = coptic
+        size = 250
+    }
+
+    soldiers = {
+        culture = anglois
+        religion = coptic
+        size = 500
+    }
+
+    farmers = {
+        culture = anglois
+        religion = coptic
+        size = 8250
+    }
+}
+#Limerick (818000/204500 POPS)
+261 = {
+    aristocrats = {
+        culture = irish
+        religion = coptic
+        size = 1100
+    }
+
+    clergymen = {
+        culture = irish
+        religion = coptic
+        size = 1500
+    }
+
+    artisans = {
+        culture = irish
+        religion = coptic
+        size = 10000
+    }
+
+    artisans = {
+        culture = irish
+        religion = coptic
+        size = 4000
+    }
+
+    soldiers = {
+        culture = irish
+        religion = coptic
+        size = 1500
+    }
+
+    farmers = {
+        culture = irish
+        religion = coptic
+        size = 146500
+    }
+}
+#Waterford (536000/134000 POPs)
+262 = {
+    aristocrats = {
+        culture = anglois
+        religion = coptic
+        size = 500
+    }
+
+    clergymen = {
+        culture = anglois
+        religion = coptic
+        size = 750
+    }
+
+    artisans = {
+        culture = irish
+        religion = coptic
+        size = 7000
+    }
+
+    soldiers = {
+        culture = irish
+        religion = coptic
+        size = 1100
+    }
+
+    farmers = {
+        culture = irish
+        religion = coptic
+        size = 104750
+    }
+
+}
+#Leinster Region - 1836000
+#under rule of Britain 1836
+#Dublin (860000/215000 POPs)
+263 = {
+    aristocrats = {
+        culture = anglois
+        religion = coptic
+        size = 700
+    }
+
+    bureaucrats = {
+        culture = anglois
+        religion = coptic
+        size = 625
+    }
+
+    aristocrats = {
+        culture = british
+        religion = coptic
+        size = 300
+    }
+
+    bureaucrats = {
+        culture = anglois
+        religion = coptic
+        size = 2000
+    }
+
+    officers = {
+        culture = anglois
+        religion = coptic
+        size = 500
+    }
+
+    clergymen = {
+        culture = british
+        religion = coptic
+        size = 2250
+    }
+
+    soldiers = {
+        culture = anglois
+        religion = coptic
+        size = 2500
+    }
+
+    artisans = {
+        culture = anglois
+        religion = coptic
+        size = 10000
+    }
+    artisans = {
+        culture = anglois
+        religion = coptic
+        size = 10000
+    }
+
+    artisans = {
+        culture = irish
+        religion = coptic
+        size = 10000
+    }
+
+    artisans = {
+        culture = irish
+        religion = coptic
+        size = 10000
+    }
+    farmers = {
+        culture = irish
+        religion = coptic
+        size = 134375
+    }
+}
+#Kildare (532000/133000 POPs)
+264 = {
+    aristocrats = {
+        culture = anglois
+        religion = coptic
+        size = 500
+    }
+
+    clergymen = {
+        culture = anglois
+        religion = coptic
+        size = 100
+    }
+
+    artisans = {
+        culture = anglois
+        religion = coptic
+        size = 3000
+    }
+    artisans = {
+        culture = irish
+        religion = coptic
+        size = 3500
+    }
+
+    soldiers = {
+        culture = irish
+        religion = coptic
+        size = 1500
+    }
+
+    farmers = {
+        culture = irish
+        religion = coptic
+        size = 104400
+    }
+}
+#Wexford (444000/111000 POPS)
+265 = {
+    aristocrats = {
+        culture = anglois
+        religion = coptic
+        size = 500
+    }
+
+    artisans = {
+        culture = anglois
+        religion = coptic
+        size = 5500
+    }
+
+    clergymen = {
+        culture = anglois
+        religion = coptic
+        size = 100
+    }
+
+    soldiers = {
+        culture = irish
+        religion = coptic
+        size = 1100
+    }
+
+    farmers = {
+        culture = irish
+        religion = coptic
+        size = 70000
+    }
+    farmers = {
+        culture = anglois
+        religion = coptic
+        size = 19000
+    }
+
+}

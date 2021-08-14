@@ -1,0 +1,174 @@
+army = {
+    name = "The Toronto Garrison"
+    location = 46
+
+    regiment = {
+        name= "1st Cavalry Division"
+        type = cuirassier
+        home = 46
+    }
+
+    regiment = {
+        name= "1st Infantry Division"
+        type = infantry
+        home = 46
+    }
+
+    regiment = {
+        name= "2nd Infantry Division"
+        type = infantry
+        home = 55
+    }
+
+    regiment = {
+        name= "3rd Infantry Division"
+        type = infantry
+        home = 46
+    }
+
+    regiment = {
+        name= "4th Infantry Division"
+        type = infantry
+        home = 56
+    }
+
+    regiment = {
+        name= "5th Infantry Division"
+        type = infantry
+        home = 55
+    }
+
+    regiment = {
+        name= "6th Infantry Division"
+        type = infantry
+        home = 55
+    }
+
+    regiment = {
+        name= "1st Artillery Division"
+        type = artillery
+        home = 56
+    }
+
+    regiment = {
+        name= "2nd Artillery Division"
+        type = artillery
+        home = 55
+    }
+
+}
+
+
+army = {
+    name = "The Dithmarschener Defense Forces"
+    location = 65
+
+    regiment = {
+        name= "1st Cavalry Division"
+        type = cuirassier
+        home = 58
+    }
+
+    regiment = {
+        name= "1st Infantry Division"
+        type = infantry
+        home = 58
+    }
+
+    regiment = {
+        name= "2nd Infantry Division"
+        type = infantry
+        home = 65
+    }
+
+    regiment = {
+        name= "3rd Infantry Division"
+        type = infantry
+        home = 65
+    }
+
+    regiment = {
+        name= "4th Infantry Division"
+        type = infantry
+        home = 65
+    }
+
+    regiment = {
+        name= "5th Infantry Division"
+        type = infantry
+        home = 65
+    }
+
+    regiment = {
+        name= "6th Infantry Division"
+        type = infantry
+        home = 64
+    }
+
+    regiment = {
+        name= "1st Artillery Division"
+        type = artillery
+        home = 58
+    }
+
+    regiment = {
+        name= "2nd Artillery Division"
+        type = artillery
+        home = 64
+    }
+
+}
+navy = {
+    name = "Holsatian Coast Guard"
+    location = 65
+    ship = {
+        name= "HMS Saint Vincent"
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Wellesley" #Should not be in NA
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Hibernia"
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Illustrious" #-
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Poictiers" #-
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Aeolus"
+        type = frigate
+    }
+
+    ship = {
+        name= "HMS Barham"
+        type = frigate
+    }
+
+    ship = {
+        name= "HMS Daedalus"
+        type = frigate
+    }
+
+    ship = {
+        name= "HMS Druid"
+        type = frigate
+    }
+
+    ship = {
+        name= "HMS Dublin"
+        type = frigate
+    }
+
+}

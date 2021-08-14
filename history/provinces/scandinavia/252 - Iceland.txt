@@ -1,0 +1,8 @@
+owner = ENL
+controller = ENL
+add_core = ENL
+add_core = SWE
+add_core = IRE
+trade_goods = fish
+life_rating = 32
+colonial = 2

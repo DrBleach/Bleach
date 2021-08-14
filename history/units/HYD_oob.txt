@@ -1,0 +1,159 @@
+leader = {
+    name = "Abd Allah ibn al-Mahri"
+    type = land
+    date = 1836.1.1
+    personality = brash
+    background = toady
+}
+army = {
+    name = "Army of the Nizam of Bahmanis"
+    location = 1283
+    regiment = {
+        name= "1.Irregular Horse"
+        type = cavalry
+        home = 1283
+    }
+
+    regiment = {
+        name= "2.Irregular Horse"
+        type = cavalry
+        home = 1278
+    }
+
+    regiment = {
+        name= "3.Irregular Horse"
+        type = cavalry
+        home = 1284
+    }
+
+    regiment = {
+        name= "1.Hyderabad Contingent"
+        type = infantry
+        home = 1283
+    }
+
+    regiment = {
+        name= "2.Hyderabad Contingent"
+        type = infantry
+        home = 1285
+    }
+
+    regiment = {
+        name= "3.Hyderabad Contingent"
+        type = infantry
+        home = 1287
+    }
+
+    regiment = {
+        name= "4.Hyderabad Contingent"
+        type = artillery
+        home = 1283
+    }
+    regiment = {
+        name= "5.Hyderabad Contingent"
+        type = infantry
+        home = 1297
+    }
+    regiment = {
+        name= "6.Hyderabad Contingent"
+        type = infantry
+        home = 1299
+    }
+
+}
+
+army = {
+    name = "Sultan's Army"
+    location = 1175
+    regiment = {
+        name= "1. Brigade"
+        type = irregular
+        home = 1175
+    }
+
+    regiment = {
+        name= "2. Brigade"
+        type = irregular
+        home = 1175
+    }
+}
+
+army = {
+    name = "Army of the Raja of Circars"
+    location = 1306
+    regiment = {
+        name= "1.Jagdaipur Contingent"
+        type = irregular
+        home = 1306
+    }
+
+    regiment = {
+        name= "2.Jagdaipur Contingent"
+        type = irregular
+        home = 1306
+    }
+
+    regiment = {
+        name= "3.Jagdaipur Contingent"
+        type = irregular
+        home = 1306
+    }
+
+}
+
+#East Indies Station
+navy = {
+    name = "East Indies Station"
+    location = 1297 #Bombay
+
+    ship = {
+        name= "HMS Hindustan"
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Bombay"
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Calcutta"
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Ganges"
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Malabar"
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Diego Garcia"
+        type = frigate
+    }
+
+    ship = {
+        name= "HMS Janna"
+        type = frigate
+    }
+
+    ship = {
+        name= "HMS Gujurat"
+        type = frigate
+    }
+
+    ship = {
+        name= "HMS Leonidas"
+        type = frigate
+    }
+
+    ship = {
+        name= "HMS Naiad"
+        type = frigate
+    }
+
+}

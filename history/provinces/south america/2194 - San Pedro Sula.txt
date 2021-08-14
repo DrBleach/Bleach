@@ -1,0 +1,10 @@
+owner = TEX
+controller = TEX
+add_core = TEX
+add_core = YUC
+trade_goods = grain
+life_rating = 35
+1861.1.1 = {
+    owner = HON
+    controller = HON
+}

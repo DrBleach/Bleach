@@ -1,0 +1,11 @@
+owner = ENL
+controller = ENL
+add_core = NET
+add_core = ENL
+add_core = WLL
+add_core = NGF
+add_core = FRA
+trade_goods = grain
+life_rating = 35
+1861.1.1 = { railroad = 3 }
+1861.1.1 = { remove_core = NET }

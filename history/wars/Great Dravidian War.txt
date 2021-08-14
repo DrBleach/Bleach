@@ -1,0 +1,22 @@
+name = "Great Dravidian War"
+
+1835.01.2 = {
+	add_attacker = HYD
+	add_defender = MYS
+	war_goal = {
+		casus_belli = conquest
+		actor = MYS
+		receiver = HYD
+	}
+	war_goal = {
+		casus_belli = conquest
+		actor = HYD
+		receiver = MYS
+	}
+
+}
+
+1836.11.6 = {
+	rem_attacker = TUR
+	rem_defender = TRI
+}

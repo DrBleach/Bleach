@@ -1,0 +1,62 @@
+army = {
+    name = "Army of the Wadiyar of Mysore"
+    location = 1314
+    regiment = {
+        name= "1.Tamil Contingent"
+        type = irregular
+        home = 1314
+    }
+
+    regiment = {
+        name= "2.Tamil Contingent"
+        type = irregular
+        home = 1313
+    }
+
+    regiment = {
+        name= "3.Tamil Contingent"
+        type = irregular
+        home = 1315
+    }
+
+    regiment = {
+        name= "4.Tamil Contingent"
+        type = infantry
+        home = 1316
+    }
+
+    regiment = {
+        name= "5.Tamil Contingent"
+        type = infantry
+        home = 1317
+    }
+
+    regiment = {
+        name= "6.Tamil Contingent"
+        type = infantry
+        home = 1317
+    }
+
+}
+army = {
+    name = "Army of the Maharaja of Travancore"
+    location = 1319
+    regiment = {
+        name= "7.Tamil Contingent"
+        type = irregular
+        home = 1319
+    }
+
+    regiment = {
+        name= "8.Tamil Contingent"
+        type = irregular
+        home = 1319
+    }
+
+    regiment = {
+        name= "9.Tamil Contingent"
+        type = irregular
+        home = 1319
+    }
+
+}

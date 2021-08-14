@@ -1,0 +1,7 @@
+owner = RUT
+controller = RUT
+add_core = UBD
+add_core = RUT
+add_core = LAT
+trade_goods = fish
+life_rating = 35

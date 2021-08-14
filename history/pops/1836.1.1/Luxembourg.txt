@@ -1,0 +1,127 @@
+#Luxembourg (172000)
+#In personal union with Netherlands in 1836
+#Luxembourg (172000/43000 POPS)
+397 = {
+    aristocrats = {
+        culture = wallonian
+        religion = protestant
+        size = 375
+    }
+
+    bureaucrats = {
+        culture = wallonian
+        religion = protestant
+        size = 2025
+    }
+
+    officers = {
+        culture = wallonian
+        religion = protestant
+        size = 250
+    }
+
+    clergymen = {
+        culture = wallonian
+        religion = protestant
+        size = 650
+    }
+
+    artisans = {
+        culture = wallonian
+        religion = protestant
+        size = 8750
+    }
+
+    soldiers = {
+        culture = rhenish
+        religion = protestant
+        size = 2000
+    }
+
+    farmers = {
+        culture = wallonian
+        religion = protestant
+        size = 33580
+    }
+
+    farmers = {
+        culture = rhenish
+        religion = protestant
+        size = 10320
+    }
+
+    aristocrats = {
+        culture = wallonian
+        religion = protestant
+        size = 550
+    }
+
+    officers = {
+        culture = wallonian
+        religion = protestant
+        size = 350
+    }
+
+    bureaucrats = {
+        culture = wallonian
+        religion = protestant
+        size = 350
+    }
+
+    clergymen = {
+        culture = wallonian
+        religion = protestant
+        size = 675
+    }
+
+    artisans = {
+        culture = wallonian
+        religion = protestant
+        size = 6350
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = protestant
+        size = 250
+    }
+
+    farmers = {
+        culture = wallonian
+        religion = protestant
+        size = 27375
+    }
+
+    ######Jews
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+    ########
+
+}

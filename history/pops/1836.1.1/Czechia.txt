@@ -1,0 +1,1121 @@
+#Bohemia Region (4136000)
+#under the rule of Austria in 1836
+#Prague (1726800/425200 POPS)
+625 = {
+    aristocrats = {
+        culture = western_slavic
+        religion = orthodox
+        size = 3600
+    }
+
+    capitalists = {
+        culture = western_slavic
+        religion = orthodox
+        size = 50
+    }
+
+    bureaucrats = {
+        culture = western_slavic
+        religion = orthodox
+        size = 400
+    }
+
+    officers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 250
+    }
+
+    clergymen = {
+        culture = western_slavic
+        religion = orthodox
+        size = 3025
+    }
+
+    artisans = {
+        culture = western_slavic
+        religion = orthodox
+        size = 9000
+    }
+
+    craftsmen = {
+        culture = western_slavic
+        religion = orthodox
+        size = 300
+    }
+
+    artisans = {
+        culture = western_slavic
+        religion = orthodox
+        size = 8200
+    }
+
+    soldiers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 3000
+    }
+
+    soldiers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 750
+    }
+
+    farmers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 270000
+    }
+
+    serfs = {
+        culture = western_slavic
+        religion = orthodox
+        size = 11000
+    }
+
+    serfs = {
+        culture = western_slavic
+        religion = orthodox
+        size = 100000
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = orthodox
+        size = 3500
+    }
+
+    bureaucrats = {
+        culture = south_german
+        religion = orthodox
+        size = 1550
+    }
+
+    officers = {
+        culture = south_german
+        religion = orthodox
+        size = 800
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = orthodox
+        size = 275
+    }
+
+    artisans = {
+        culture = south_german
+        religion = orthodox
+        size = 7700
+    }
+
+    craftsmen = {
+        culture = south_german
+        religion = orthodox
+        size = 300
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = orthodox
+        size = 300
+    }
+
+    farmers = {
+        culture = south_german
+        religion = orthodox
+        size = 5775
+    }
+
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    officers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    craftsmen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 200
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2800
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1250
+    }
+}
+#Hradec Kralove (441600/110400 POPS)
+626 = {
+    clergymen = {
+        culture = western_slavic
+        religion = orthodox
+        size = 1100
+    }
+
+    artisans = {
+        culture = western_slavic
+        religion = orthodox
+        size = 4450
+    }
+
+    craftsmen = {
+        culture = western_slavic
+        religion = orthodox
+        size = 100
+    }
+
+    soldiers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 1100
+    }
+
+    farmers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 62950
+    }
+
+    serfs = {
+        culture = western_slavic
+        religion = orthodox
+        size = 30000
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = orthodox
+        size = 800
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = orthodox
+        size = 150
+    }
+
+    artisans = {
+        culture = south_german
+        religion = orthodox
+        size = 900
+    }
+
+    craftsmen = {
+        culture = south_german
+        religion = orthodox
+        size = 100
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = orthodox
+        size = 350
+    }
+
+    farmers = {
+        culture = south_german
+        religion = orthodox
+        size = 5700
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1400
+    }
+
+    craftsmen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 625
+    }
+}
+#Karlsbad (579200/144800 POPS)
+627 = {
+    clergymen = {
+        culture = western_slavic
+        religion = orthodox
+        size = 300
+    }
+
+    artisans = {
+        culture = western_slavic
+        religion = orthodox
+        size = 350
+    }
+
+    soldiers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 250
+    }
+
+    craftsmen = {
+        culture = western_slavic
+        religion = orthodox
+        size = 100
+    }
+
+    farmers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 5800
+    }
+
+    serfs = {
+        culture = western_slavic
+        religion = orthodox
+        size = 10000
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = orthodox
+        size = 1300
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = orthodox
+        size = 1250
+    }
+
+    artisans = {
+        culture = south_german
+        religion = orthodox
+        size = 6250
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = orthodox
+        size = 1250
+    }
+
+    craftsmen = {
+        culture = south_german
+        religion = orthodox
+        size = 100
+    }
+
+    farmers = {
+        culture = south_german
+        religion = orthodox
+        size = 114850
+    }
+
+    aristocrats = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    officers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2000
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    craftsmen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 825
+    }
+}
+#Aussig (317600/79400 POPS)
+628 = {
+    clergymen = {
+        culture = south_german
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = south_german
+        religion = orthodox
+        size = 500
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = orthodox
+        size = 100
+    }
+
+    craftsmen = {
+        culture = south_german
+        religion = orthodox
+        size = 100
+    }
+
+    farmers = {
+        culture = south_german
+        religion = orthodox
+        size = 1000
+    }
+
+    serfs = {
+        culture = south_german
+        religion = orthodox
+        size = 7225
+    }
+
+    aristocrats = {
+        culture = western_slavic
+        religion = orthodox
+        size = 850
+    }
+
+    clergymen = {
+        culture = western_slavic
+        religion = orthodox
+        size = 675
+    }
+
+    artisans = {
+        culture = western_slavic
+        religion = orthodox
+        size = 3250
+    }
+
+    craftsmen = {
+        culture = western_slavic
+        religion = orthodox
+        size = 100
+    }
+
+    soldiers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 1200
+    }
+
+    farmers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 63825
+    }
+
+    ######Jews
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 200
+    }
+
+    craftsmen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+    ########
+}
+#Pilsen (490400/122600 POPS)
+629 = {
+    capitalists = {
+        culture = western_slavic
+        religion = orthodox
+        size = 50
+    }
+
+    clergymen = {
+        culture = western_slavic
+        religion = orthodox
+        size = 1600
+    }
+
+    artisans = {
+        culture = western_slavic
+        religion = orthodox
+        size = 2900
+    }
+
+    craftsmen = {
+        culture = western_slavic
+        religion = orthodox
+        size = 100
+    }
+
+    soldiers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 1100
+    }
+
+    farmers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 10000
+    }
+
+    serfs = {
+        culture = south_german
+        religion = orthodox
+        size = 2100
+    }
+
+    serfs = {
+        culture = western_slavic
+        religion = orthodox
+        size = 10000
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = orthodox
+        size = 2100
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = orthodox
+        size = 650
+    }
+
+    artisans = {
+        culture = south_german
+        religion = orthodox
+        size = 6150
+    }
+
+    craftsmen = {
+        culture = south_german
+        religion = orthodox
+        size = 6100
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = orthodox
+        size = 650
+    }
+
+    farmers = {
+        culture = south_german
+        religion = orthodox
+        size = 70850
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 3000
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    craftsmen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1825
+    }
+}
+#Budejovice (405600/101400 POPS)
+630 = {
+    aristocrats = {
+        culture = western_slavic
+        religion = orthodox
+        size = 1000
+    }
+
+    clergymen = {
+        culture = western_slavic
+        religion = orthodox
+        size = 400
+    }
+
+    artisans = {
+        culture = western_slavic
+        religion = orthodox
+        size = 3250
+    }
+
+    craftsmen = {
+        culture = western_slavic
+        religion = orthodox
+        size = 3300
+    }
+
+    soldiers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 1550
+    }
+
+    bureaucrats = {
+        culture = western_slavic
+        religion = orthodox
+        size = 100
+    }
+
+    farmers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 7000
+    }
+
+    serfs = {
+        culture = western_slavic
+        religion = orthodox
+        size = 11100
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = orthodox
+        size = 1400
+    }
+
+    bureaucrats = {
+        culture = south_german
+        religion = orthodox
+        size = 100
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = orthodox
+        size = 825
+    }
+
+    artisans = {
+        culture = south_german
+        religion = orthodox
+        size = 5500
+    }
+
+    craftsmen = {
+        culture = south_german
+        religion = orthodox
+        size = 100
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = orthodox
+        size = 1100
+    }
+
+    farmers = {
+        culture = south_german
+        religion = orthodox
+        size = 61075
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2000
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    craftsmen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1325
+    }
+}
+#Moravia Region (1476000)
+#under the rule of Austria in 1836
+#Brno (1094000/273500 POPS)
+631 = {
+    bureaucrats = {
+        culture = western_slavic
+        religion = orthodox
+        size = 250
+    }
+
+    officers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 125
+    }
+
+    clergymen = {
+        culture = western_slavic
+        religion = orthodox
+        size = 2025
+    }
+
+    artisans = {
+        culture = western_slavic
+        religion = orthodox
+        size = 17450
+    }
+
+    craftsmen = {
+        culture = western_slavic
+        religion = orthodox
+        size = 100
+    }
+
+    soldiers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 2100
+    }
+
+    farmers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 158000
+    }
+
+    serfs = {
+        culture = western_slavic
+        religion = orthodox
+        size = 3550
+    }
+
+    serfs = {
+        culture = western_slavic
+        religion = orthodox
+        size = 53000
+    }
+
+    aristocrats = {
+        culture = south_german
+        religion = orthodox
+        size = 1300
+    }
+
+    bureaucrats = {
+        culture = south_german
+        religion = orthodox
+        size = 350
+    }
+
+    officers = {
+        culture = south_german
+        religion = orthodox
+        size = 250
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = orthodox
+        size = 475
+    }
+
+    artisans = {
+        culture = south_german
+        religion = orthodox
+        size = 3900
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = orthodox
+        size = 700
+    }
+
+    craftsmen = {
+        culture = south_german
+        religion = orthodox
+        size = 100
+    }
+
+    farmers = {
+        culture = south_german
+        religion = orthodox
+        size = 32925
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1900
+    }
+
+    craftsmen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1370
+    }
+}
+#Olomouc (372800/93200 POPS)
+632 = {
+    clergymen = {
+        culture = south_german
+        religion = orthodox
+        size = 350
+    }
+
+    artisans = {
+        culture = south_german
+        religion = orthodox
+        size = 700
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = orthodox
+        size = 550
+    }
+
+    farmers = {
+        culture = south_german
+        religion = orthodox
+        size = 20700
+    }
+
+    aristocrats = {
+        culture = western_slavic
+        religion = orthodox
+        size = 2250
+    }
+
+    clergymen = {
+        culture = western_slavic
+        religion = orthodox
+        size = 500
+    }
+
+    artisans = {
+        culture = western_slavic
+        religion = orthodox
+        size = 4300
+    }
+
+    soldiers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 300
+    }
+
+    serfs = {
+        culture = western_slavic
+        religion = orthodox
+        size =  26850
+    }
+
+    farmers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 31000
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2500
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 100
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1225
+    }
+}
+#Silesia Region (220000) #see Poland.txt for balance of region
+#under the rule of Austria in 1836
+#Troppau (104000/26000 POPS)
+688 = {
+    bureaucrats = {
+        culture = western_slavic
+        religion = orthodox
+        size = 40
+    }
+
+    officers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 100
+    }
+
+    clergymen = {
+        culture = south_german
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = south_german
+        religion = orthodox
+        size = 450
+    }
+
+    soldiers = {
+        culture = south_german
+        religion = orthodox
+        size = 100
+    }
+
+    serfs = {
+        culture = south_german
+        religion = orthodox
+        size = 5385
+    }
+
+    aristocrats = {
+        culture = western_slavic
+        religion = orthodox
+        size = 250
+    }
+
+    officers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 100
+    }
+
+    bureaucrats = {
+        culture = western_slavic
+        religion = orthodox
+        size = 140
+    }
+
+    clergymen = {
+        culture = western_slavic
+        religion = orthodox
+        size = 200
+    }
+
+    artisans = {
+        culture = western_slavic
+        religion = orthodox
+        size = 1550
+    }
+
+    soldiers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 200
+    }
+
+    farmers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 17610
+    }
+}
+#Teschen (116000/29000 POPS)
+689 = {
+    clergymen = {
+        culture = western_slavic
+        religion = orthodox
+        size = 125
+    }
+
+    artisans = {
+        culture = western_slavic
+        religion = orthodox
+        size = 700
+    }
+
+    soldiers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 125
+    }
+
+    farmers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 16050
+    }
+
+    clergymen = {
+        culture = western_slavic
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = western_slavic
+        religion = orthodox
+        size = 100
+    }
+
+    soldiers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 100
+    }
+
+    farmers = {
+        culture = western_slavic
+        religion = orthodox
+        size = 955
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = orthodox
+        size = 350
+    }
+
+    clergymen = {
+        culture = polish
+        religion = orthodox
+        size = 150
+    }
+
+    artisans = {
+        culture = polish
+        religion = orthodox
+        size = 700
+    }
+
+    soldiers = {
+        culture = polish
+        religion = orthodox
+        size = 150
+    }
+
+    serfs = {
+        culture = polish
+        religion = catholic
+        size = 9650
+    }
+}

@@ -1,0 +1,83 @@
+army = {
+    name = "Army of Nagpur"
+    location = 1277
+    regiment = {
+        name= "1.Nagpur Contingent"
+        type = irregular
+        home = 1277
+    }
+
+    regiment = {
+        name= "2.Nagpur Contingent"
+        type = irregular
+        home = 1280
+    }
+
+    regiment = {
+        name= "3.Nagpur Contingent"
+        type = irregular
+        home = 1281
+    }
+
+}
+army = {
+    name = "Army of Orissa "
+    location = 1262
+    regiment = {
+        name= "1.Balangir Contingent"
+        type = irregular
+        home = 1262
+    }
+
+    regiment = {
+        name= "2.Balangir Contingent"
+        type = irregular
+        home = 1262
+    }
+
+    regiment = {
+        name= "3.Balangir Contingent"
+        type = irregular
+        home = 1263
+    }
+
+}
+army = {
+    name = "Army of Bundelkhand"
+    location = 1275
+    regiment = {
+        name= "1.Bundelkhand Legion"
+        type = irregular
+        home = 1276
+    }
+
+    regiment = {
+        name= "2.Bundelkhand Legion"
+        type = irregular
+        home = 1275
+    }
+
+    regiment = {
+        name= "3.Bundelkhand Legion"
+        type = irregular
+        home = 1275
+    }
+    regiment = {
+        name= "1.Bhopal"
+        type = irregular
+        home = 1275
+    }
+
+    regiment = {
+        name= "2.Bhopal"
+        type = irregular
+        home = 1276
+    }
+
+    regiment = {
+        name= "3.Bhopal"
+        type = irregular
+        home = 1276
+    }
+
+}

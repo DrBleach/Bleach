@@ -1,0 +1,67 @@
+army = {
+    name = "Royal Nepalese Army"
+    location = 1326
+    regiment = {
+        name= "1. Gurkha"
+        type = irregular
+        home = 1326
+    }
+
+    regiment = {
+        name= "2. Gurkha"
+        type = irregular
+        home = 1326
+    }
+
+    regiment = {
+        name= "3. Gurkha"
+        type = irregular
+        home = 1326
+    }
+
+    regiment = {
+        name= "4. Gurkha"
+        type = irregular
+        home = 1327
+    }
+}
+army = {
+    name = "Delhi Army"
+    location = 1236
+    regiment = {
+        name= "9. Gurkha"
+        type = infantry
+        home = 1239
+    }
+
+    regiment = {
+        name= "10. Gurkha"
+        type = infantry
+        home = 1239
+    }
+
+    regiment = {
+        name= "5. Gurkha"
+        type = infantry
+        home = 1247
+    }
+
+    regiment = {
+        name= "6. Gurkha"
+        type = infantry
+        home = 1240
+    }
+
+    regiment = {
+        name= "7. Gurkha"
+        type = infantry
+        home = 1248
+    }
+
+    regiment = {
+        name= "8. Gurkha"
+        type = infantry
+        home = 1243
+    }
+
+}
