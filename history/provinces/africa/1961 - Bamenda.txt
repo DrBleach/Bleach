@@ -1,2 +1,4 @@
+owner = SOK
+controller = SOK
 trade_goods = timber
 life_rating = 10

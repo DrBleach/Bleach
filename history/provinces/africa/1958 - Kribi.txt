@@ -1,2 +1,4 @@
+owner = SOK
+controller = SOK
 trade_goods = fruit
 life_rating = 10

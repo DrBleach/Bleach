@@ -1,5 +1,5 @@
-owner = SPA
-controller = SPA
+owner = TUS
+controller = TUS
 add_core = SRD
 add_core = TUS
 add_core = ITA

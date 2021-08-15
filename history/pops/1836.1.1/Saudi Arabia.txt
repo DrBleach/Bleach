@@ -560,43 +560,43 @@
 1163 = {
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = shiite
         size = 100
     }
 
     bureaucrats = {
         culture = bedouin
-        religion = sunni
+        religion = shiite
         size = 25
     }
 
     officers = {
         culture = bedouin
-        religion = sunni
+        religion = shiite
         size = 50
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = shiite
         size = 75
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = shiite
         size = 350
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = shiite
         size = 300
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = shiite
         size = 6525
     }
 
@@ -640,31 +640,31 @@
 1164 = {
     aristocrats = {
         culture = bedouin
-        religion = sunni
+        religion = shiite
         size = 175
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = shiite
         size = 100
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = shiite
         size = 550
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = shiite
         size = 1200
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = shiite
         size = 9175
     }
 

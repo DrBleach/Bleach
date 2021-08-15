@@ -40,55 +40,55 @@
 
     soldiers = {
         culture = bedouin
-        religion = ibadi
+        religion = shiite
         size = 1000
     }
 
     farmers = {
         culture = bedouin
-        religion = ibadi
+        religion = shiite
         size = 2625
     }
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = ibadi
         size = 50
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = ibadi
         size = 100
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = ibadi
         size = 100
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = ibadi
         size = 3950
     }
 
     artisans = {
         culture = baluchi
-        religion = sunni
+        religion = ibadi
         size = 50
     }
 
     soldiers = {
         culture = baluchi
-        religion = sunni
+        religion = ibadi
         size = 25
     }
 
     farmers = {
         culture = baluchi
-        religion = sunni
+        religion = ibadi
         size = 925
     }
 
@@ -107,13 +107,7 @@
     farmers = {
         culture = persian
         religion = shiite
-        size = 925
-    }
-
-    slaves = {
-        culture = forest_bantu
-        religion = animist
-        size = 2000
+        size = 2925
     }
 }
 #Suhar (16000/4000 POPS)
@@ -150,7 +144,7 @@
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = ibadi
         size = 1625
     }
 }
@@ -188,25 +182,25 @@
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = ibadi
         size = 50
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = ibadi
         size = 50
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = ibadi
         size = 100
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = ibadi
         size = 3525
     }
 }
@@ -244,43 +238,43 @@
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = ibadi
         size = 25
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = ibadi
         size = 100
     }
 
     soldiers = {
         culture = bedouin
-        religion = sunni
+        religion = ibadi
         size = 25
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = ibadi
         size = 1850
     }
 
     artisans = {
         culture = baluchi
-        religion = sunni
+        religion = ibadi
         size = 50
     }
 
     soldiers = {
         culture = baluchi
-        religion = sunni
+        religion = ibadi
         size = 25
     }
 
     farmers = {
         culture = baluchi
-        religion = sunni
+        religion = ibadi
         size = 925
     }
 
@@ -324,19 +318,19 @@
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = ibadi
         size = 25
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = ibadi
         size = 50
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = ibadi
         size = 2825
     }
 }
@@ -388,19 +382,19 @@
 
     clergymen = {
         culture = bedouin
-        religion = sunni
+        religion = ibadi
         size = 25
     }
 
     artisans = {
         culture = bedouin
-        religion = sunni
+        religion = ibadi
         size = 50
     }
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = ibadi
         size = 2025
     }
 
@@ -446,13 +440,13 @@
 
     farmers = {
         culture = bedouin
-        religion = sunni
+        religion = ibadi
         size = 730
     }
 
     farmers = {
         culture = baluchi
-        religion = sunni
+        religion = ibadi
         size = 100
     }
 }
@@ -491,7 +485,7 @@
 
     farmers = {
         culture = baluchi
-        religion = sunni
+        religion = ibadi
         size = 600
     }
 

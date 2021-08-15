@@ -1,7 +1,6 @@
-owner = DND
-controller = DND
-add_core = DND
-add_core = MAS
+owner = SOK
+controller = SOK
+add_core = SOK
 trade_goods = fruit
 terrain = semidesert
 life_rating = 35

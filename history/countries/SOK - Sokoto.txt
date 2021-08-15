@@ -1,9 +1,9 @@
-capital = 1948
-primary_culture = fulbe
+capital = 1805
+primary_culture = songhai
 culture = hausa
 culture = east_kwa
 culture = tiv
-culture = bedouin
+culture = fulbe
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

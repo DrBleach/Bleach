@@ -1,6 +1,6 @@
-owner = TRZ
-controller = TRZ
-add_core = TRZ
+owner = SOK
+controller = SOK
+add_core = SOK
 trade_goods = cattle
 life_rating = 15
 terrain = semidesert

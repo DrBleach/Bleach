@@ -817,7 +817,7 @@
     farmers = {
         culture = mashriqi
         religion = sunni
-        size = 16488
+        size = 6488
     }
 
     aristocrats = {
@@ -847,7 +847,7 @@
     farmers = {
         culture = kurdish
         religion = sunni
-        size = 6150
+        size = 12150
     }
 
     clergymen = {
@@ -871,6 +871,6 @@
     farmers = {
         culture = assyrian
         religion = catholic
-        size = 1050
+        size = 5050
     }
 }

@@ -1,5 +1,5 @@
-owner = DAH
-controller = DAH
-add_core = DAH
+owner = SOK
+controller = SOK
+add_core = SOK
 trade_goods = fish
 life_rating = 35

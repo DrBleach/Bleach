@@ -1,6 +1,6 @@
-owner = OYO
-controller = OYO
-add_core = OYO
+owner = SOK
+controller = SOK
+add_core = SOK
 trade_goods = fish
 life_rating = 35
 1861.1.1 = {
