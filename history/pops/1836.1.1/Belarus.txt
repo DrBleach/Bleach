@@ -589,37 +589,37 @@
     }
 
     aristocrats = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 500
     }
 
     officers = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 175
     }
 
     clergymen = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 100
     }
 
     soldiers = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 975
     }
@@ -1045,43 +1045,43 @@
 #Orsha (392000/98000 POPS) #now part of Belarus
 944 = {
     aristocrats = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 2000
     }
 
     officers = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 100
     }
 
     clergymen = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 500
     }
 
     soldiers = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 1000
     }
 
     serfs = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 3450
     }
@@ -1193,43 +1193,43 @@
     }
 
     aristocrats = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 900
     }
 
     bureaucrats = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 200
     }
 
     officers = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 350
     }
 
     clergymen = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 250
     }
 
     soldiers = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 50
     }
 
     farmers = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 3200
     }
@@ -1363,31 +1363,31 @@
     }
 
     aristocrats = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 1800
     }
 
     clergymen = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 100
     }
 
     artisans = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 250
     }
 
     soldiers = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 100
     }
 
     farmers = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 2850
     }
@@ -1571,31 +1571,31 @@
     }
 
     aristocrats = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 1400
     }
 
     clergymen = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 75
     }
 
     artisans = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 300
     }
 
     soldiers = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 50
     }
 
     serfs = {
-        culture = byelobyelobyelobyelobyelorussian
+        culture = byelorussian
         religion = orthodox
         size = 3175
     }
