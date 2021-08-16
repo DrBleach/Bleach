@@ -1,6 +1,6 @@
 capital = 1616
-primary_culture = nanfaren
-culture = beifaren
+primary_culture = beifaren
+culture = nanfaren
 religion = mahayana
 government = presidential_dictatorship
 plurality = 0.0

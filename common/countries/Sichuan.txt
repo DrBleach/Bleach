@@ -1,4 +1,4 @@
-color = { 169 223 155 }
+color = { 167  33  62 }
 graphical_culture = ChineseGC
 
 party = {
