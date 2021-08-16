@@ -3,74 +3,74 @@
 #Tainan (1452000/363000 POPS) #now part of Taiwan
 1485 = {
     aristocrats = {
-        culture = nanfaren
-        religion = mahayana
+        culture = japanese
+        religion = shinto
         size = 1525
     }
 
     clergymen = {
-        culture = nanfaren
-        religion = mahayana
+        culture = japanese
+        religion = shinto
         size = 1325
     }
 
     artisans = {
-        culture = nanfaren
-        religion = mahayana
+        culture = japanese
+        religion = shinto
         size = 6600
     }
 
     soldiers = {
-        culture = nanfaren
-        religion = mahayana
+        culture = japanese
+        religion = shinto
         size = 1325
     }
 
     farmers = {
-        culture = nanfaren
-        religion = mahayana
+        culture = japanese
+        religion = shinto
         size = 121225
     }
 
     slaves = {
-        culture = nanfaren
-        religion = mahayana
+        culture = japanese
+        religion = shinto
         size = 20000
     }
 
     aristocrats = {
         culture = min
-        religion = mahayana
+        religion = shinto
         size = 3500
     }
 
     clergymen = {
         culture = min
-        religion = mahayana
+        religion = shinto
         size = 2500
     }
 
     artisans = {
         culture = min
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 
     artisans = {
         culture = min
-        religion = mahayana
+        religion = shinto
         size = 2500
     }
 
     soldiers = {
         culture = min
-        religion = mahayana
+        religion = shinto
         size = 2500
     }
 
     farmers = {
         culture = min
-        religion = mahayana
+        religion = shinto
         size = 165000
     }
 }
@@ -101,32 +101,32 @@
     }
 
     aristocrats = {
-        culture = nanfaren
-        religion = mahayana
+        culture = japanese
+        religion = shinto
         size = 150
     }
 
     clergymen = {
-        culture = nanfaren
-        religion = mahayana
+        culture = japanese
+        religion = shinto
         size = 100
     }
 
     artisans = {
-        culture = nanfaren
-        religion = mahayana
+        culture = japanese
+        religion = shinto
         size = 750
     }
 
     soldiers = {
-        culture = nanfaren
-        religion = mahayana
+        culture = japanese
+        religion = shinto
         size = 1300
     }
 
     farmers = {
         culture = min
-        religion = mahayana
+        religion = shinto
         size = 12925
     }
 }
@@ -134,32 +134,32 @@
 #Penghu (15K - 60 K POPS) #british trade post 1836 - old cocos island
 2406 = {
     aristocrats = {
-        culture = nanfaren
-        religion = mahayana
+        culture = japanese
+        religion = shinto
         size = 150
     }
 
     clergymen = {
-        culture = nanfaren
-        religion = mahayana
+        culture = japanese
+        religion = shinto
         size = 100
     }
 
     artisans = {
-        culture = nanfaren
-        religion = mahayana
+        culture = japanese
+        religion = shinto
         size = 750
     }
 
     soldiers = {
-        culture = nanfaren
-        religion = mahayana
+        culture = japanese
+        religion = shinto
         size = 1300
     }
 
     farmers = {
-        culture = min
-        religion = mahayana
+        culture = japanese
+        religion = shinto
         size = 12925
     }
 
@@ -168,98 +168,98 @@
 #Taipei (1452000/363000 POPS) formerly 2681 - Kikkiaki in Russia.txt
 2681 = {
     aristocrats = {
-        culture = nanfaren
-        religion = mahayana
+        culture = japanese
+        religion = shinto
         size = 1500
     }
 
     bureaucrats = {
-        culture = nanfaren
-        religion = mahayana
+        culture = japanese
+        religion = shinto
         size = 400
     }
 
     officers = {
-        culture = nanfaren
-        religion = mahayana
+        culture = japanese
+        religion = shinto
         size = 725
     }
 
     clergymen = {
-        culture = nanfaren
-        religion = mahayana
+        culture = japanese
+        religion = shinto
         size = 1225
     }
 
     artisans = {
-        culture = nanfaren
-        religion = mahayana
+        culture = japanese
+        religion = shinto
         size = 6150
     }
 
     soldiers = {
-        culture = nanfaren
-        religion = mahayana
+        culture = japanese
+        religion = shinto
         size = 1250
     }
 
     farmers = {
-        culture = nanfaren
-        religion = mahayana
-        size = 110625
+        culture = japanese
+        religion = shinto
+        size = 210625
     }
 
     aristocrats = {
         culture = min
-        religion = mahayana
+        religion = shinto
         size = 3000
     }
 
     clergymen = {
         culture = min
-        religion = mahayana
+        religion = shinto
         size = 2400
     }
 
     artisans = {
         culture = min
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 
     artisans = {
         culture = min
-        religion = mahayana
+        religion = shinto
         size = 2000
     }
 
     soldiers = {
         culture = min
-        religion = mahayana
+        religion = shinto
         size = 2400
     }
 
     farmers = {
         culture = min
-        religion = mahayana
-        size = 220200
+        religion = shinto
+        size = 120200
     }
 
     bureaucrats = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 50
     }
 
     officers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 25
     }
 
     soldiers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 50
     }
 }

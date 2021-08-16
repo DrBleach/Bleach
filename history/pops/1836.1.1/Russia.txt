@@ -10105,57 +10105,57 @@
 #Haishenwai (328000/82000 POPS)
 1082 = {
     aristocrats = {
-        culture = manchu
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 1500
     }
 
     bureaucrats = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 200
     }
 
     officers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 200
     }
 
     clergymen = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 475
     }
 
     artisans = {
-        culture = manchu
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 3900
     }
 
     soldiers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 1200
     }
 
     farmers = {
         culture = manchu
-        religion = mahayana
-        size = 31075
+        religion = shinto
+        size = 18075
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 150
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
-        size = 1050
+        religion = shinto
+        size = 14050
     }
 
     farmers = {
@@ -10175,25 +10175,25 @@
 
     clergymen = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 375
     }
 
     artisans = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 1000
     }
 
     soldiers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 1200
     }
 
     farmers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 22975
     }
 
@@ -10214,25 +10214,25 @@
 
     clergymen = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 150
     }
 
     artisans = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 800
     }
 
     soldiers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 175
     }
 
     farmers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 14575
     }
 
@@ -10253,25 +10253,25 @@
 
     clergymen = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 500
     }
 
     artisans = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 2000
     }
 
     soldiers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 1200
     }
 
     farmers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 19375
     }
 

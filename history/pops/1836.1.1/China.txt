@@ -695,116 +695,116 @@
 #Mukden (2128000/532000 POPS)
 1479 = {
     aristocrats = {
-        culture = manchu
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 3000
     }
 
     bureaucrats = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 1000
     }
 
     officers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 750
     }
 
     clergymen = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 1250
     }
 
     artisans = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 5000
     }
 
     soldiers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 3000
     }
 
     farmers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 6750
     }
 
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 150
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 120
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 200
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 200
     }
 
     slaves = {
-        culture = korean
-        religion = mahayana
+        culture = beifaren
+        religion = shinto
         size = 1600
     }
 
     aristocrats = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 1025
     }
 
     officers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 135
     }
 
     clergymen = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 225
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 5600
     }
 
     soldiers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 1325
     }
 
     farmers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 115100
     }
 
     slaves = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 29125
     }
 
@@ -819,49 +819,49 @@
 
     clergymen = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 300
     }
 
     artisans = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 600
     }
 
     soldiers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 1225
     }
 
     farmers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 19275
     }
 
     clergymen = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 150
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 700
     }
 
     soldiers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 150
     }
 
     farmers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 122750
     }
 
@@ -874,62 +874,62 @@
 #Port Arthur (80000/15000 POPS)
 1481 = {
     aristocrats = {
-        culture = manchu
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 250
     }
 
     clergymen = {
-        culture = manchu
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 150
     }
 
     artisans = {
-        culture = manchu
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 750
     }
 
     soldiers = {
-        culture = manchu
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 150
     }
 
     farmers = {
-        culture = manchu
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 13700
     }
 
     aristocrats = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 100
     }
 
     clergymen = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 50
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 250
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 50
     }
 
     farmers = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 4550
     }
 }
@@ -6395,32 +6395,32 @@
     }
 
     clergymen = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 200
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 1000
     }
 
     soldiers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 1100
     }
 
     farmers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 70650
     }
 
     slaves = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 10875
     }
 
@@ -8318,7 +8318,7 @@
 1552 = {
     aristocrats = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 3750
     }
 
@@ -8330,38 +8330,38 @@
 
     bureaucrats = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 300
     }
 
     officers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 300
     }
 
     clergymen = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 500
     }
 
     artisans = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 1000
     }
 
     soldiers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 1100
     }
 
     labourers = {
         culture = manchu
-        religion = mahayana
-        size = 4100
+        religion = shinto
+        size = 24100
     }
 
     soldiers = {
@@ -8373,7 +8373,7 @@
     labourers = {
         culture = mongol
         religion = gelugpa
-        size = 60000
+        size = 40000
     }
 
     slaves = {
@@ -8383,44 +8383,44 @@
     }
 
     aristocrats = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 1750
     }
 
     bureaucrats = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 100
     }
 
     officers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 100
     }
 
     clergymen = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 100
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 500
     }
 
     soldiers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 1100
     }
 
     farmers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 5650
     }
 
@@ -8430,25 +8430,25 @@
 
     clergymen = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 300
     }
 
     artisans = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 1900
     }
 
     soldiers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 1200
     }
 
     labourers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 43950
     }
 
@@ -8469,43 +8469,43 @@
 
     clergymen = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 400
     }
 
     artisans = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 1000
     }
 
     soldiers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 2300
     }
 
     labourers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 40400
     }
 
     labourers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 20000
     }
 
     slaves = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 5000
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 800
     }
 }
@@ -8514,55 +8514,55 @@
 
     clergymen = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 850
     }
 
     artisans = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 700
     }
 
     soldiers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 1200
     }
 
     labourers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 27550
     }
 
     clergymen = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 450
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 900
     }
 
     soldiers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 1100
     }
 
     farmers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 60000
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 1450
     }
 }
@@ -8571,25 +8571,25 @@
 
     clergymen = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 225
     }
 
     artisans = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 750
     }
 
     soldiers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 1100
     }
 
     farmers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 5800
     }
 
@@ -8750,19 +8750,19 @@
 
     bureaucrats = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 25
     }
 
     officers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 25
     }
 
     soldiers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 100
     }
 
@@ -9411,152 +9411,152 @@
 #Jinan (5916000/1479000 POPS)
 1563 = {
     aristocrats = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 28100
     }
 
     bureaucrats = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 6700
     }
 
     officers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 6900
     }
 
     clergymen = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 14100
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 11000
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 11000
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
+        size = 11000
+    }
+
+    artisans = {
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 11000
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 11000
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 11000
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
-        size = 11000
-    }
-
-    artisans = {
-        culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 400
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 3000
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 3000
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 1100
     }
 
     farmers = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 1165600
     }
 
     serfs = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 100000
     }
 
     aristocrats = {
         culture = beifaren
-        religion = sunni
+        religion = shinto
         size = 1400
     }
 
     clergymen = {
         culture = beifaren
-        religion = sunni
+        religion = shinto
         size = 700
     }
 
     artisans = {
         culture = beifaren
-        religion = sunni
+        religion = shinto
         size = 3550
     }
 
     soldiers = {
         culture = beifaren
-        religion = sunni
+        religion = shinto
         size = 725
     }
 
     farmers = {
         culture = beifaren
-        religion = sunni
+        religion = shinto
         size = 64625
     }
 
     bureaucrats = {
-        culture = manchu
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 300
     }
 
     officers = {
-        culture = manchu
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 300
     }
 
     soldiers = {
-        culture = manchu
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 1500
     }
 }
@@ -9625,386 +9625,386 @@
 #Laizhou (3636000/909000 POPS)
 1565 = {
     aristocrats = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 18150
     }
 
     bureaucrats = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 4800
     }
 
     clergymen = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 9100
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 49450
     }
 
     soldiers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 5100
     }
 
     farmers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 400200
     }
 
     slaves = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 400000
     }
 
     serfs = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 30000
     }
 }
 #Qingdao (24000/6000 POPS)
 1566 = {
     aristocrats = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 100
     }
 
     clergymen = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 50
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 300
     }
 
     soldiers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 75
     }
 
     farmers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 5475
     }
 }
 #Qingzhou (3936000/984000 POPS)
 1567 = {
     aristocrats = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 19650
     }
 
     clergymen = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 9850
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
+        size = 11000
+    }
+
+    artisans = {
+        culture = korean
+        religion = shinto
+        size = 11000
+    }
+
+    artisans = {
+        culture = korean
+        religion = shinto
+        size = 11000
+    }
+
+    artisans = {
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
-        size = 11000
-    }
-
-    artisans = {
-        culture = beifaren
-        religion = mahayana
-        size = 11000
-    }
-
-    artisans = {
-        culture = beifaren
-        religion = mahayana
-        size = 11000
-    }
-
-    artisans = {
-        culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 9200
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 3000
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 2850
     }
 
     farmers = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 395450
     }
 
     slaves = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 500000
     }
 }
 #Taian (3688000/922000 POPS)
 1568 = {
     aristocrats = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 18425
     }
 
     clergymen = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 9225
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 11000
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 11000
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 11000
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 11000
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 6100
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 3000
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 2225
     }
 
     farmers = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 339025
     }
 
     slaves = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 500000
     }
 }
 #Weihaiwei (28000/7000 POPS)
 1569 = {
     aristocrats = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 125
     }
 
     clergymen = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 75
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 350
     }
 
     soldiers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 75
     }
 
     farmers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 6375
     }
 }
 #Wuling (3696000/924000 POPS)
 1570 = {
     aristocrats = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 18450
     }
 
     clergymen = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 9250
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 6200
     }
 
     soldiers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 3000
     }
 
     soldiers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 2250
     }
 
     farmers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 340850
     }
 
     slaves = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 500000
     }
 }
 #Yizhou (3944000/986000 POPS)
 1571 = {
     aristocrats = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 19700
     }
 
     clergymen = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 9850
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 11000
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 11000
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 11000
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 9300
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 3000
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 2875
     }
 
     farmers = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 397275
     }
 
     slaves = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 500000
     }
 }
@@ -12698,245 +12698,245 @@
 #Beijing - Baoding (4956000/1239000 POPS)
 1612 = {
     aristocrats = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 24050
     }
 
     bureaucrats = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 9100
     }
 
     officers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 6000
     }
 
     clergymen = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 12050
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 114000
     }
 
 
     soldiers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 6550
     }
 
     farmers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 908650
     }
 
     serfs = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 90000
     }
 
     aristocrats = {
-        culture = beifaren
-        religion = sunni
+        culture = korean
+        religion = shinto
         size = 850
     }
 
     clergymen = {
-        culture = beifaren
-        religion = sunni
+        culture = korean
+        religion = shinto
         size = 450
     }
 
     artisans = {
-        culture = beifaren
-        religion = sunni
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = sunni
+        culture = korean
+        religion = shinto
         size = 1100
     }
 
     soldiers = {
-        culture = beifaren
-        religion = sunni
+        culture = korean
+        religion = shinto
         size = 450
     }
 
     farmers = {
-        culture = beifaren
-        religion = sunni
+        culture = korean
+        religion = shinto
         size = 31250
     }
 }
 #Chengde (6420000/1605000 POPS)
 1613 = {
     aristocrats = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 21750
     }
 
     clergymen = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 13000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 9550
     }
 
     farmers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 1400800
     }
 
     aristocrats = {
-        culture = beifaren
-        religion = sunni
+        culture = korean
+        religion = shinto
         size = 250
     }
 
     clergymen = {
-        culture = beifaren
-        religion = sunni
+        culture = korean
+        religion = shinto
         size = 150
     }
 
     artisans = {
-        culture = beifaren
-        religion = sunni
+        culture = korean
+        religion = shinto
         size = 700
     }
 
     soldiers = {
-        culture = beifaren
-        religion = sunni
+        culture = korean
+        religion = shinto
         size = 150
     }
 
     farmers = {
-        culture = beifaren
-        religion = sunni
+        culture = korean
+        religion = shinto
         size = 12750
     }
 
     aristocrats = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 11000
     }
 
     bureaucrats = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 550
     }
 
     clergymen = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 3000
     }
 
     artisans = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 11000
     }
 
     artisans = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 11000
     }
 
     soldiers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 3000
     }
 
     soldiers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 3000
     }
 
     soldiers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 3000
     }
 
     soldiers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 3000
     }
 
     soldiers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 3000
     }
 
     soldiers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 900
     }
 
     farmers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 47000
     }
 }
@@ -12944,430 +12944,442 @@
 1614 = {
     aristocrats = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 16800
     }
 
     clergymen = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 8400
     }
 
     artisans = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 2050
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 3000
     }
 
     soldiers = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 1425
     }
 
     farmers = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 365325
     }
 
     slaves = {
         culture = beifaren
-        religion = mahayana
+        religion = shinto
         size = 400000
     }
 }
 #Jizhou (4496000/1124000 POPS)
 1615 = {
     aristocrats = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 22450
     }
 
     clergymen = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11250
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 6200
     }
 
     soldiers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 3000
     }
 
     soldiers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 3000
     }
 
     soldiers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 250
     }
 
     farmers = {
+        culture = korean
+        religion = shinto
+        size = 500000
+    }
+
+    farmers = {
         culture = beifaren
-        religion = mahayana
-        size = 1022850
+        religion = shinto
+        size = 522850
     }
 }
 #Shuntian (4428000/1107000 POPS)
 1616 = {
     aristocrats = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 19075
     }
 
     clergymen = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11075
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 5350
     }
 
     soldiers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 3000
     }
 
     soldiers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 3000
     }
 
     soldiers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 75
     }
 
     farmers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 607425
     }
 
     slaves = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 400000
     }
 
     aristocrats = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 5000
     }
 
     bureaucrats = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 10250
     }
 
     officers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 3500
     }
 
     clergymen = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 500
     }
 
     artisans = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 11000
     }
 
     soldiers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 3000
     }
 
     soldiers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 3000
     }
 
     soldiers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 3000
     }
 
     soldiers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 3000
     }
 
     farmers = {
         culture = manchu
-        religion = mahayana
+        religion = shinto
         size = 10750
     }
 }
 #Tianjin (5964000/1491000 POPS)
 1617 = {
     aristocrats = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 29025
     }
 
     clergymen = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 14525
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 79600
     }
 
     soldiers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 7525
     }
 
     farmers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 1221325
     }
 
     serfs = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 100000
     }
 
     aristocrats = {
-        culture = beifaren
-        religion = sunni
+        culture = korean
+        religion = shinto
         size = 750
     }
 
     clergymen = {
-        culture = beifaren
-        religion = sunni
+        culture = korean
+        religion = shinto
         size = 400
     }
 
     artisans = {
-        culture = beifaren
-        religion = sunni
+        culture = korean
+        religion = shinto
         size = 1950
     }
 
     soldiers = {
-        culture = beifaren
-        religion = sunni
+        culture = korean
+        religion = shinto
         size = 400
     }
 
     farmers = {
-        culture = beifaren
-        religion = sunni
+        culture = korean
+        religion = shinto
         size = 35500
     }
 }
 #Zhongding (5240000/1310000 POPS)
 1618 = {
     aristocrats = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 26150
     }
 
     clergymen = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 13125
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 11000
     }
 
     artisans = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 5500
     }
 
     soldiers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 3000
     }
 
     soldiers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 3000
     }
 
     soldiers = {
-        culture = beifaren
-        religion = mahayana
+        culture = korean
+        religion = shinto
         size = 600
     }
 
     farmers = {
         culture = beifaren
-        religion = mahayana
-        size = 1192125
+        religion = shinto
+        size = 800000
+    }
+
+    farmers = {
+        culture = korean
+        religion = shinto
+        size = 392125
     }
 
 }

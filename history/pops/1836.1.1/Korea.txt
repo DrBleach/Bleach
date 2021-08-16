@@ -4,55 +4,55 @@
 1619 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 12750
     }
 
     bureaucrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 7300
     }
 
     officers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 2000
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 2925
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 9500
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 5500
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 232125
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 24900
     }
 }
@@ -60,49 +60,49 @@
 1620 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 6550
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 2825
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 9000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 5000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 8000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 223625
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 25000
     }
 }
@@ -112,49 +112,49 @@
 1621 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 1400
     }
 
     bureaucrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 150
     }
 
     officers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 200
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 1750
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 8500
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 6000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 143300
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 11000
     }
 }
@@ -162,37 +162,37 @@
 1622 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 3500
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 1800
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 9000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 6100
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 152600
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 17000
     }
 }
@@ -200,37 +200,37 @@
 1623 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 1150
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 1625
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 9000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 6000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 154625
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 12000
     }
 }
@@ -240,73 +240,73 @@
 1624 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 12425
     }
 
     bureaucrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 9675
     }
 
     officers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 2000
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 2800
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 3750
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 13000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 249725
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 11625
     }
 }
@@ -314,43 +314,43 @@
 1625 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 2250
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 1275
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 6250
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 6500
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 139150
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 4000
     }
 }
@@ -358,43 +358,43 @@
 1626 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 1150
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 1625
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 3000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 6000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 144625
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 18000
     }
 }
@@ -402,55 +402,55 @@
 1627 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 6550
     }
 
     bureaucrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 5175
     }
 
     officers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 1000
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 1825
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 3000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 5100
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 147625
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 }
@@ -458,49 +458,49 @@
 1628 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 3550
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 2325
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 6500
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 8000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 179625
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 }
@@ -510,49 +510,49 @@
 1629 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 3700
     }
 
     officers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 225
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 850
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 9250
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 4100
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 106800
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 }
@@ -560,49 +560,49 @@
 1630 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 1150
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 1625
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 3000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 6000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 152625
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 }
@@ -610,43 +610,43 @@
 1631 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 1250
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 975
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 3250
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 6500
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 137175
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 9000
     }
 }
@@ -656,61 +656,61 @@
 1632 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 7400
     }
 
     bureaucrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 375
     }
 
     officers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 425
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 2800
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 8750
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 8000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 188150
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 47000
     }
 }
@@ -718,43 +718,43 @@
 1633 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 1900
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 1550
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 5000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 6100
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 101050
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 29500
     }
 }
@@ -762,37 +762,37 @@
 1634 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 2900
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 1550
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 7500
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 2000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 186050
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 50000
     }
 }
@@ -802,61 +802,61 @@
 1635 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 
     bureaucrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 2100
     }
 
     officers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 1350
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 2500
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 7550
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 8000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 186300
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 23200
     }
 }
@@ -864,48 +864,48 @@
 1636 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 5550
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 2325
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 8500
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 10000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 9000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 177625
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 17000
     }
 }
@@ -913,37 +913,37 @@
 1637 = {
     aristocrats = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 1350
     }
 
     clergymen = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 725
     }
 
     artisans = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 7000
     }
 
     soldiers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 2000
     }
 
     farmers = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 53725
     }
 
     slaves = {
         culture = korean
-        religion = mahayana
+        religion = shinto
         size = 9800
     }
 
