@@ -1,5 +1,7 @@
 owner = MAL
 controller = MAL
+add_core = INO
+add_core = BAL
 add_core = MAL
 trade_goods = fish
 life_rating = 31

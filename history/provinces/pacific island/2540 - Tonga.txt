@@ -1,3 +1,5 @@
+owner = POR
+controller = POR
 add_core = TGA
 trade_goods = fish
 life_rating = 15

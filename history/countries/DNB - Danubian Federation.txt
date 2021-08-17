@@ -1,12 +1,11 @@
 capital = 619
 primary_culture = south_german
 culture = hungarian
+culture = western_slavic
 culture = slovak
-culture = czech
-culture = romanian
 culture = croat
-culture = slovene
-religion = catholic
+culture = serb
+religion = orthodox
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_equality

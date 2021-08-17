@@ -1,4 +1,6 @@
-add_core = RWA
+owner = BUG
+controller = BUG
+add_core = BUG
 trade_goods = cattle
 terrain = montane_forest
 life_rating = 10

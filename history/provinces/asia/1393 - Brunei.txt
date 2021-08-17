@@ -1,5 +1,6 @@
-owner = BRU
-controller = BRU
-add_core = BRU
+owner = INO
+controller = INO
+add_core = INO
+add_core = KTI
 trade_goods = fish
 life_rating = 31

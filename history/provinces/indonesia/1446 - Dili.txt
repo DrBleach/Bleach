@@ -1,6 +1,6 @@
-owner = POR
-controller = POR
-add_core = TMR
+owner = BAL
+controller = BAL
+add_core = INO
+add_core = BAL
 trade_goods = coffee
 life_rating = 32
-colonial = 2

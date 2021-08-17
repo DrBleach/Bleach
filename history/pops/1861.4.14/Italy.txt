@@ -985,26 +985,26 @@
     }
 
     clergymen = {
-        culture = slovene
+        culture = north_italian
         religion = catholic
         size = 103.0
     }
 
     artisans = {
-        culture = slovene
+        culture = north_italian
         religion = catholic
         size = 4635.0
     }
 
     soldiers = {
-        culture = slovene
+        culture = north_italian
         religion = catholic
         size= 103
 
     }
 
     farmers = {
-        culture = slovene
+        culture = north_italian
         religion = catholic
         size = 6489.0
     }
@@ -1043,26 +1043,26 @@
     }
 
     clergymen = {
-        culture = slovene
+        culture = north_italian
         religion = catholic
         size = 309.0
     }
 
     artisans = {
-        culture = slovene
+        culture = north_italian
         religion = catholic
         size = 1030.0
     }
 
     soldiers = {
-        culture = slovene
+        culture = north_italian
         religion = catholic
         size= 334
 
     }
 
     farmers = {
-        culture = slovene
+        culture = north_italian
         religion = catholic
         size = 31286.25
     }

@@ -40,26 +40,26 @@
     }
 
     clergymen = {
-        culture = slovene
+        culture = south_german
         religion = catholic
         size = 463.5
     }
 
     artisans = {
-        culture = slovene
+        culture = south_german
         religion = catholic
         size = 1648.0
     }
 
     soldiers = {
-        culture = slovene
+        culture = south_german
         religion = catholic
         size= 1463
 
     }
 
     farmers = {
-        culture = slovene
+        culture = south_german
         religion = catholic
         size = 43805.0
     }
@@ -69,51 +69,51 @@
 #Ljubljana (280000/70000 POPS)
 768 = {
     aristocrats = {
-        culture = slovene
+        culture = south_german
         religion = catholic
         size = 849.75
     }
 
     bureaucrats = {
-        culture = slovene
+        culture = south_german
         religion = catholic
         size = 231.75
     }
 
     officers = {
-        culture = slovene
+        culture = south_german
         religion = catholic
         size = 103.0
     }
 
     clergymen = {
-        culture = slovene
+        culture = south_german
         religion = catholic
         size = 721.0
     }
 
     artisans = {
-        culture = slovene
+        culture = south_german
         religion = catholic
         size = 4120.0
     }
 
     soldiers = {
-        culture = slovene
+        culture = south_german
         religion = catholic
         size= 3000
 
     }
 
     soldiers = {
-        culture = slovene
+        culture = south_german
         religion = catholic
         size= 2030
 
     }
 
     farmers = {
-        culture = slovene
+        culture = south_german
         religion = catholic
         size = 61044.5
     }
@@ -121,32 +121,32 @@
 #Postojna (180000/45000 POPS)
 769 = {
     aristocrats = {
-        culture = slovene
+        culture = south_german
         religion = catholic
         size = 515.0
     }
 
     clergymen = {
-        culture = slovene
+        culture = south_german
         religion = catholic
         size = 437.75
     }
 
     artisans = {
-        culture = slovene
+        culture = south_german
         religion = catholic
         size = 2163.0
     }
 
     soldiers = {
-        culture = slovene
+        culture = south_german
         religion = catholic
         size= 437
 
     }
 
     farmers = {
-        culture = slovene
+        culture = south_german
         religion = catholic
         size = 40762.25
     }

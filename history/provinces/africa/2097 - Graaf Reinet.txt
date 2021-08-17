@@ -1,6 +1,5 @@
-owner = ENG
-controller = ENG
-add_core = XHO
+owner = SWE
+controller = SWE
 add_core = SAF
 trade_goods = fruit
 life_rating = 35

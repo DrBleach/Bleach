@@ -1,6 +1,6 @@
-owner = SPA
-controller = SPA
-add_core = PHL
+owner = INO
+controller = INO
+add_core = INO
+add_core = SUL
 trade_goods = iron
 life_rating = 35
-colonial = 2

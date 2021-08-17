@@ -1,8 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = JOH
-add_core = SIA
+owner = INO
+controller = INO
+add_core = INO
 trade_goods = timber
 life_rating = 37
-colonial = 2
 naval_base = 1

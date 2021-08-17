@@ -1,11 +1,11 @@
 capital = 1413
-primary_culture = javan
+primary_culture = malay
+culture = javan
 religion = sunni
-government = democracy
+government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_equality
 literacy = 0.03
-civilized = yes
 
 # Political reforms
 slavery = no_slavery
@@ -47,3 +47,4 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+oob = "INO_oob.txt"

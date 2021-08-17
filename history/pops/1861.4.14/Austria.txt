@@ -264,26 +264,26 @@
     }
 
     clergymen = {
-        culture = slovene
+        culture = south_german
         religion = catholic
         size = 180.25
     }
 
     artisans = {
-        culture = slovene
+        culture = south_german
         religion = catholic
         size = 978.5
     }
 
     soldiers = {
-        culture = slovene
+        culture = south_german
         religion = catholic
         size= 206
 
     }
 
     farmers = {
-        culture = slovene
+        culture = south_german
         religion = catholic
         size = 17175.25
     }
@@ -440,13 +440,13 @@
     }
 
     clergymen = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 51.5
     }
 
     artisans = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 6128.5
     }

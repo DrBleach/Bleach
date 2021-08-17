@@ -1,6 +1,5 @@
-owner = BSH
-controller = BSH
-add_core = BSH
-add_core = ZUL
+owner = KRN
+controller = KRN
+add_core = KRN
 trade_goods = grain
 life_rating = 35

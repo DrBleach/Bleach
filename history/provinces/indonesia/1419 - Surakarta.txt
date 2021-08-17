@@ -1,5 +1,6 @@
-owner = JAV
-controller = JAV
-add_core = JAV
+owner = BAL
+controller = BAL
+add_core = INO
+add_core = BAL
 trade_goods = fruit
 life_rating = 35

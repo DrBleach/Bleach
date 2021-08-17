@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = AST
+owner = INO
+controller = INO
+add_core = INO
 trade_goods = tropical_wood
 terrain = savanna
 life_rating = 31

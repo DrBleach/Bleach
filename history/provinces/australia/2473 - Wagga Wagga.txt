@@ -1,4 +1,7 @@
-add_core = AST
+owner = INO
+controller = INO
+add_core = INO
 trade_goods = grain
 terrain = savanna
 life_rating = 20
+colonial = 2

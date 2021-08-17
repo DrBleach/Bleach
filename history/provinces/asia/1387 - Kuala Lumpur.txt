@@ -1,6 +1,5 @@
-owner = SLG
-controller = SLG
-add_core = SLG
-add_core = JOH
+owner = INO
+controller = INO
+add_core = INO
 trade_goods = timber
 life_rating = 35

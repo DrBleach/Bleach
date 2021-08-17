@@ -63,4 +63,3 @@ ammunition_production = yes
 consciousness = 0
 nonstate_consciousness = 0
 
-oob = "KTH_oob.txt"

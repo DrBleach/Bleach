@@ -3,112 +3,112 @@
 #Prague (1572000/393000 POPS)
 625 = {
     bureaucrats = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 566.5
     }
 
     officers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 257.5
     }
 
     clergymen = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 3733.75
     }
 
     clerks = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 400.0
     }
 
     craftsmen = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 9000.0
     }
 
     artisans = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 10000.0
     }
 
     artisans = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 8340.0
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size= 3000
 
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size= 3000
 
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size= 3000
 
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size= 3000
 
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size= 3000
 
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size= 3000
 
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size= 3000
 
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size= 3000
 
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size= 1862
 
     }
 
     farmers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 327724.75
     }
@@ -190,39 +190,39 @@
 #Hradec Kralove (528000/132000 POPS)
 626 = {
     clergymen = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 824.0
     }
 
     craftsmen = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 2000.0
     }
 
     artisans = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 4377.5
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size= 3000
 
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size= 1130
 
     }
 
     farmers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 76218.5
     }
@@ -286,32 +286,32 @@
 #Karlsbad (600000/150000 POPS)
 627 = {
     clergymen = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 412.0
     }
 
     craftsmen = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 1100.0
     }
 
     artisans = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 566.5
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size= 1257
 
     }
 
     farmers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 19424.0
     }
@@ -388,26 +388,26 @@
 #Aussig (276000/69000 POPS)
 628 = {
     clergymen = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 77.25
     }
 
     artisans = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 515.0
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size= 1203
 
     }
 
     farmers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 14404.75
     }
@@ -446,39 +446,39 @@
 #Pilsen (672000/168000 POPS)
 629 = {
     clergymen = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 927.0
     }
 
     artisans = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 5150.0
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size= 3000
 
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size= 1130
 
     }
 
     craftsmen = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 2000.0
     }
 
     farmers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 90793.0
     }
@@ -548,32 +548,32 @@
 #Budejovice (488000/122000 POPS)
 630 = {
     clergymen = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 515.0
     }
 
     craftsmen = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 1100.0
     }
 
     artisans = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 2935.5
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size= 1566
 
     }
 
     farmers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 53693.0
     }
@@ -652,64 +652,64 @@
 #Brno (1040000/260000 POPS)
 631 = {
     bureaucrats = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 257.5
     }
 
     officers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 128.75
     }
 
     clergymen = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 1879.75
     }
 
     clerks = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 200.0
     }
 
     craftsmen = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 7000.0
     }
 
     artisans = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 9630.5
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size= 3000
 
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size= 3000
 
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size= 1157
 
     }
 
     farmers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 166556.5
     }
@@ -791,33 +791,33 @@
 #Olomouc (436000/109000 POPS)
 632 = {
     clergymen = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 772.5
     }
 
     artisans = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 3914.0
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size= 3000
 
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size= 772
 
     }
 
     farmers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 69821.0
     }
@@ -883,38 +883,38 @@
 #Troppau (104000/26000 POPS)
 688 = {
     bureaucrats = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 41.2
     }
 
     officers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 25.75
     }
 
     clergymen = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 51.5
     }
 
     artisans = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 463.5
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size= 51
 
     }
 
     farmers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 5546.55
     }
@@ -965,26 +965,26 @@
 #Tesin (116000/29000 POPS)
 689 = {
     clergymen = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 128.75
     }
 
     artisans = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 721.0
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size= 128
 
     }
 
     farmers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 13441.5
     }

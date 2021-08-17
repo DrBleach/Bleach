@@ -431,25 +431,25 @@
     }
 
     clergymen = {
-        culture = czech
+        culture = serb
         religion = catholic
         size = 51.5
     }
 
     artisans = {
-        culture = czech
+        culture = serb
         religion = catholic
         size = 257.5
     }
 
     soldiers = {
-        culture = czech
+        culture = serb
         religion = catholic
         size = 51.5
     }
 
     farmers = {
-        culture = czech
+        culture = serb
         religion = catholic
         size = 4789.5
     }

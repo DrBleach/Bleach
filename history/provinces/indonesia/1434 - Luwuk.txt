@@ -1,5 +1,6 @@
-owner = SLW
-controller = SLW
+owner = INO
+controller = INO
+add_core = INO
 add_core = SLW
 trade_goods = fruit
 life_rating = 31

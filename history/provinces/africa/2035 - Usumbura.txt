@@ -1,4 +1,6 @@
-add_core = BRD
+owner = BUG
+controller = BUG
+add_core = BUG
 trade_goods = fruit
 terrain = montane_forest
 life_rating = 10

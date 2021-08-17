@@ -527,25 +527,25 @@
     }
 
     clergymen = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 15.450000000000001
     }
 
     artisans = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 51.5
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 10.3
     }
 
     farmers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 952.75
     }
@@ -667,25 +667,25 @@
     }
 
     clergymen = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 51.5
     }
 
     artisans = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 206.0
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 25.75
     }
 
     farmers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 3836.75
     }
@@ -783,25 +783,25 @@
     }
 
     clergymen = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 51.5
     }
 
     artisans = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 515.0
     }
 
     soldiers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 103.0
     }
 
     farmers = {
-        culture = czech
+        culture = western_slavic
         religion = catholic
         size = 9630.5
     }

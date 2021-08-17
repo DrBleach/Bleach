@@ -881,32 +881,32 @@
     }
 
     aristocrats = {
-        culture = bosniak
+        culture = serb
         religion = sunni
         size = 412.0
     }
 
     clergymen = {
-        culture = bosniak
+        culture = serb
         religion = sunni
         size = 51.5
     }
 
     artisans = {
-        culture = bosniak
+        culture = serb
         religion = sunni
         size = 515.0
     }
 
     soldiers = {
-        culture = bosniak
+        culture = serb
         religion = sunni
         size= 1030
 
     }
 
     farmers = {
-        culture = bosniak
+        culture = serb
         religion = sunni
         size = 3656.5
     }

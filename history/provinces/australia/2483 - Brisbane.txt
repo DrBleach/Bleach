@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = AST
+owner = INO
+controller = INO
+add_core = INO
 trade_goods = cattle
 life_rating = 34
 colonial = 2

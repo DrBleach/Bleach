@@ -5170,7 +5170,7 @@
 
     farmers = {
         culture = marathi
-        religion = aunni
+        religion = sunni
         size = 315850
     }
 

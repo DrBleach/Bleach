@@ -1,0 +1,114 @@
+army = {
+    name = "Army of the Sultan of Atjeh"
+    location = 1405
+    regiment = {
+        name= "1st Infantry"
+        type = irregular
+        home = 1405
+    }
+
+    regiment = {
+        name= "2nd Infantry"
+        type = irregular
+        home = 1406
+    }
+
+    regiment = {
+        name= "3rd Infantry"
+        type = irregular
+        home = 1407
+    }
+
+}
+
+leader = {
+    name = "Sultan Alauddin Syah"
+    date = 1836.1.1
+    type = land
+    personality = bigoted
+    background = powerful_friends
+}
+army = {
+    name = "Army of the Sultan of Brunei"
+    location = 1394
+    regiment = {
+        name= "1.Sultan's Guard"
+        type = irregular
+        home = 1394
+    }
+}
+army = {
+    name = "Army of the Sultan of Jambi"
+    location = 1403
+        regiment = {
+        name= "Sultan Guards"
+            type = irregular
+            home = 1410
+            }
+    }
+
+leader = {
+    name = "Sultan Facharudin"
+    date = 1836.1.1
+    type = land
+    personality = coward
+    background = aristocrat
+}
+army = {
+    name = "Army of the Sultan of Johore"
+    location = 1385
+    regiment = {
+        name= "Johore State Troops"
+        type = irregular
+        home = 1385
+    }
+
+}
+
+leader = {
+    name = "Sultan Ali Iskandar"
+    date = 1824.1.1
+    type = land
+    personality = gutsy
+    background = aristocrat
+    prestige = 0.0
+}
+army = {
+    name = "Army of the Sultan of Pahang"
+    location = 1390
+    regiment = {
+        name= "Pahang State Troops"
+        type = irregular
+        home = 1390
+    }
+
+}
+
+leader = {
+    name = "Sultan Tun Ali Bendahara"
+    date = 1828.1.1
+    type = land
+    personality = inept
+    background = aristocrat
+    prestige = 0.0
+}
+
+army = {
+    name = "Army of the Sultan of Perak"
+    location = 2575
+    regiment = {
+        name= "Perak State Troops"
+        type = irregular
+        home = 2575
+    }
+
+}
+
+leader = {
+    name = "Sultan Shahabuddin Riayat"
+    date = 1822.1.1
+    type = land
+    personality = stouthearted
+    background = aristocrat
+    prestige = 0.0
+}

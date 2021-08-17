@@ -1,4 +1,6 @@
+owner = POR
+controller = POR
 terrain = coral_island
 trade_goods = sulphur
 life_rating = 10
-colonial = 1
+colonial = 2
