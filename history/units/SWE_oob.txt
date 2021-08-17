@@ -134,6 +134,41 @@ army = {
     }
 
 }
+army = {
+    name = "The South Africa Garrison"
+    location = 2096
+
+    regiment = {
+        name= "1st Artillery Division"
+        type = artillery
+        home = 324
+    }
+
+    regiment = {
+        name= "1st Cavalry Division"
+        type = hussar
+        home = 372
+    }
+
+    regiment = {
+        name= "2nd Cavalry Division"
+        type = hussar
+        home = 324
+    }
+
+    regiment = {
+        name= "1st Infantry Division"
+        type = infantry
+        home = 322
+    }
+
+    regiment = {
+        name= "2nd Infantry Division"
+        type = infantry
+        home = 2087
+    }
+
+}
 
 navy = {
     name = "Swedish Navy"
@@ -193,6 +228,60 @@ navy = {
     ship = {
         name= "3rd Transport Flotilla"
         type = clipper_transport
+    }
+
+}navy = {
+    name = "South Atlantic Station"
+    location = 2087 # Cape Town
+
+    ship = {
+        name= "HMS Ajax"
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Caledonia"
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Edinburgh"
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Egmont" #-
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Impregnable"
+        type = manowar
+    }
+
+    ship = {
+        name= "HMS Hamadryad"
+        type = frigate
+    }
+
+    ship = {
+        name= "HMS Lancaster"
+        type = frigate
+    }
+
+    ship = {
+        name= "HMS Thames"
+        type = frigate
+    }
+
+    ship = {
+        name= "HMS Thisbe"
+        type = frigate
+    }
+
+    ship = {
+        name= "HMS Resistance"
+        type = frigate
     }
 
 }
