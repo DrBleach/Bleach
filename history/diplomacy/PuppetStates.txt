@@ -13,6 +13,111 @@ substate = {
     start_date = 1836.1.1
     end_date = 1936.1.1
 }
+#Mamluk-vassals
+vassal = {
+    first = TUR
+    second = BUL
+    start_date = 1726.1.1
+    end_date = 1857.1.1
+}
+vassal = {
+    first = TUR
+    second = YEM
+    start_date = 1783.1.1
+    end_date = 1892.1.1
+}
+vassal = {
+    first = TUR
+    second = PNT
+    start_date = 1468.1.1
+    end_date = 1857.1.1
+}
+#Persian-Imperial-Territories
+vassal = {
+    first = PER
+    second = ARM
+    start_date = 1541.1.1
+    end_date = 1912.1.1
+}
+vassal = {
+    first = PER
+    second = GEO
+    start_date = 1568.1.1
+    end_date = 1912.1.1
+}
+vassal = {
+    first = PER
+    second = DAG
+    start_date = 1675.1.1
+    end_date = 1847.1.1
+}
+vassal = {
+    first = PER
+    second = SIN
+    start_date = 1621.1.1
+    end_date = 1876.1.1
+}
+vassal = {
+    first = PER
+    second = PNJ
+    start_date = 1621.1.1
+    end_date = 1876.1.1
+}
+vassal = {
+    first = PER
+    second = KOK
+    start_date = 1634.1.1
+    end_date = 1847.1.1
+}
+#Malayan-vassals
+vassal = {
+    first = INO
+    second = AOT
+    start_date = 1587.1.1
+    end_date = 1925.1.1
+}
+vassal = {
+    first = INO
+    second = DJA
+    start_date = 1534.1.1
+    end_date = 1895.1.1
+#Austro-sphere
+vassal = {
+    first = AUS
+    second = ALB
+    start_date = 1567.1.1
+    end_date = 1888.1.1
+}
+vassal = {
+    first = AUS
+    second = GRE
+    start_date = 1768.1.1
+    end_date = 1864.1.1
+}
+substate = {
+    first = AUS
+    second = SER
+    start_date = 1498.1.1
+    end_date = 1888.1.1
+}
+substate = {
+    first = AUS
+    second = CRO
+    start_date = 1465.1.1
+    end_date = 1893.1.1
+}
+substate = {
+    first = AUS
+    second = BAN
+    start_date = 1812.1.1
+    end_date = 1902.1.1
+}
+substate = {
+    first = AUS
+    second = HUN
+    start_date = 1812.1.1
+    end_date = 1902.1.1
+}
 #########1861
 # Siam - Cambodia
 vassal = {

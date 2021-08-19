@@ -1,7 +1,4 @@
-owner = INO
-controller = INO
 trade_goods = fish
 life_rating = 15
 terrain = small_island
 add_core = TMT
-colonial = 2

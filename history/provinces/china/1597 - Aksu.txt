@@ -1,5 +1,6 @@
-owner = PER
-controller = PER
+owner = KOK
+controller = KOK
+add_core = KOK
 add_core = XIN
 trade_goods = sulphur
 life_rating = 32

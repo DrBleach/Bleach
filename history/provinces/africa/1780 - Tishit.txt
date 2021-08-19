@@ -1,5 +1,5 @@
-owner = AUS
-controller = AUS
+owner = SER
+controller = SER
 add_core = ALB
 add_core = SER
 trade_goods = fruit

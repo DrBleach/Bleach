@@ -1,7 +1,8 @@
 capital = 619
 primary_culture = south_german
-culture = hungarian
-religion = catholic
+culture = slovak
+culture = western_slavic
+religion = orthodox
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_autocracy

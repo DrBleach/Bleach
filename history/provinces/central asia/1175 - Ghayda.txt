@@ -1,7 +1,4 @@
-owner = TUR
-controller = TUR
-add_core = TUR
 add_core = YEM
 trade_goods = opium
-life_rating = 32
+life_rating = 20
 terrain = semidesert

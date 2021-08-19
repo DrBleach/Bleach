@@ -1,6 +1,5 @@
-owner = INO
-controller = INO
-add_core = INO
+owner = DJA
+controller = DJA
+add_core = DJA
 trade_goods = wool
 life_rating = 32
-colonial = 2

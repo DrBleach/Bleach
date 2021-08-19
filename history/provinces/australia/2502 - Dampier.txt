@@ -1,4 +1,4 @@
-add_core = INO
+add_core = DJA
 trade_goods = grain
 terrain = savanna
 life_rating = 31

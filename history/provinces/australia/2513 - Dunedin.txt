@@ -1,10 +1,9 @@
-owner = INO
-controller = INO
-add_core = INO
+owner = AOT
+controller = AOT
+add_core = AOT
 trade_goods = wool
 terrain = hills
 life_rating = 30
-colonial = 2
 1861.1.1 = {
     owner = ENG
     controller = ENG

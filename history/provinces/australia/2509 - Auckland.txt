@@ -1,6 +1,5 @@
-owner = INO
-controller = INO
-add_core = INO
+owner = AOT
+controller = AOT
+add_core = AOT
 trade_goods = cattle
 life_rating = 35
-colonial = 2
