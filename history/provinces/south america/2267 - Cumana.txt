@@ -1,5 +1,6 @@
-owner = VNZ
-controller = VNZ
-add_core = VNZ
+owner = POR
+controller = POR
+add_core = GUY
+colonial = 2
 trade_goods = coffee
 life_rating = 35

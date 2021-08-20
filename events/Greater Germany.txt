@@ -71,7 +71,7 @@ country_event = {
         badboy = 40
         all_core = {
             limit = {
-                NOT = { is_core = HUN }
+                NOT = { is_core = CZH }
             }
             add_core = GER
         }
@@ -127,190 +127,6 @@ country_event = {
             factor = 0
         }
     }
-
-    option = {
-        name = "EVT31510OPTB"
-        set_country_flag = austrian_destiny
-        set_country_flag = austrian_greater_germany
-        badboy = 20
-        AUS_612 = { add_core = GER remove_core = HUN }
-        AUS_734 = { add_core = GER remove_core = HUN }
-        AUS_613 = { add_core = GER remove_core = HUN }
-        AUS_619 = { add_core = GER remove_core = HUN }
-        AUS_733 = { remove_core = AUS remove_core = KUK }
-        AUS_736 = { remove_core = AUS remove_core = KUK }
-        AUS_768 = { remove_core = AUS remove_core = KUK }
-        random_country = {
-            limit = {
-                owns = 625
-                625 = {
-                    OR = {
-                        is_core = AUS
-                        is_core = KUK
-                    }
-                }
-            }
-            AUS_625 = { add_core = GER } #Bohemia
-        }
-        random_country = {
-            limit = {
-                owns = 689
-                689 = {
-                    OR = {
-                        is_core = AUS
-                        is_core = KUK
-                    }
-                }
-            }
-            AUS_627 = { add_core = GER } #Lower Silesia
-        }
-        random_country = {
-            limit = {
-                owns = 629
-                629 = {
-                    OR = {
-                        is_core = AUS
-                        is_core = KUK
-                    }
-                }
-            }
-            AUS_626 = { add_core = GER } #Sudetes
-        }
-        any_pop = {
-            limit = {
-                is_primary_culture = no
-                is_accepted_culture = no
-                location = { is_core = GER }
-            }
-            consciousness = 5
-            militancy = 5
-        }
-
-        any_country = { #Returns cores to existing countries
-            limit = {
-                any_core = {
-                    owned_by = THIS
-                    NOT = { is_core = GER }
-                    is_colonial = no
-                }
-                exists = yes
-            }
-            country_event = 31717
-        }
-
-        any_country = { #Frees greater Hungary and vassalizes them
-            limit = {
-                tag = HUN
-                any_core = {
-                    owned_by = THIS
-                    NOT = { is_core = GER }
-                    is_colonial = no
-                }
-                exists = no
-                is_cultural_union = no
-            }
-            country_event = 31511
-        }
-
-        any_country = { #Goes through each of the other major nations in Austria, free and vassalize them
-            limit = {
-                OR = {
-                    tag = BOS
-                    tag = CRO
-                    tag = SLO
-                    tag = SLV
-                    tag = BOH
-                }
-                any_core = {
-                    owned_by = THIS
-                    NOT = { is_core = GER }
-                    is_colonial = no
-                }
-                exists = no
-                is_cultural_union = no
-            }
-            country_event = 31511
-        }
-
-        any_country = { #Goes through each of the other non-italian nations in Austria, free and vassalize them
-            limit = {
-                NOT = { is_culture_group = germanic }
-                NOT = { is_culture_group = italian }
-                NOT = { tag = HUN }
-                any_core = {
-                    owned_by = THIS
-                    NOT = { is_core = GER }
-                    is_colonial = no
-                }
-                exists = no
-                is_cultural_union = no
-            }
-            country_event = 31511
-        }
-
-        any_country = { #Legacy code. Goes through each of the other nations in Austria, free and vassalize them
-            limit = {
-                NOT = { is_culture_group = germanic }
-                NOT = { tag = HUN }
-                any_core = {
-                    owned_by = THIS
-                    NOT = { is_core = GER }
-                    is_colonial = no
-                }
-                exists = no
-                is_cultural_union = no
-            }
-            country_event = 31511
-        }
-
-        any_country = {
-            limit = {
-                is_greater_power = yes
-                capital_scope = { continent = europe }
-            }
-            relation = { who = THIS value = -50 }
-            casus_belli = {
-                target = THIS
-                type = release_puppet
-                months = 60
-            }
-            casus_belli = {
-                target = SGF
-                type = release_puppet
-                months = 60
-            }
-            casus_belli = {
-                target = GER
-                type = release_puppet
-                months = 60
-            }
-        }
-        ai_chance = {
-            factor = 50
-            modifier = {
-                factor = 0
-                badboy = 0.2
-                NOT = { government = fascist_dictatorship }
-                NOT = { government = proletarian_dictatorship }
-            }
-            modifier = {
-                factor = 0.5
-                tag = KUK
-            }
-            modifier = {
-                factor = 0.5
-                government = absolute_monarchy
-            }
-            modifier = {
-                factor = 0
-                OR = {
-                    government = democracy
-                    government = hms_government
-                }
-            }
-        }
-    }
-
     option = {
         name = "EVT31510OPTC"
         set_country_flag = austrian_destiny
@@ -319,7 +135,7 @@ country_event = {
         all_core = {
             limit = {
                 OR = {
-                    NOT = { is_core = HUN }
+                    NOT = { is_core = CZH }
                     province_id = 624
                     province_id = 778
                 }
@@ -328,13 +144,13 @@ country_event = {
         }
         any_owned = {
             limit = {
-                is_core = HUN
+                is_core = CZH
                 OR = {
                     province_id = 624
                     province_id = 778
                 }
             }
-            remove_core = HUN
+            remove_core = CZH
         }
         any_pop = {
             limit = {
@@ -348,7 +164,7 @@ country_event = {
         any_country = {
             limit = {
                 NOT = { is_culture_group = germanic }
-                NOT = { tag = HUN }
+                NOT = { tag = CZH }
                 any_core = {
                     owned_by = THIS
                     NOT = { is_core = GER }
@@ -361,7 +177,7 @@ country_event = {
         }
         any_country = {
             limit = {
-                tag = HUN
+                tag = CZH
                 any_core = {
                     owned_by = THIS
                     NOT = { is_core = GER }

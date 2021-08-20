@@ -1,5 +1,6 @@
-owner = INO
-controller = INO
+owner = SWE
+controller = SWE
+add_core = CHL
 trade_goods = wool
 life_rating = 30
 colonial = 2

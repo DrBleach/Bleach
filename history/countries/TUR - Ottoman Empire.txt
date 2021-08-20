@@ -2,7 +2,6 @@ capital = 1751
 primary_culture = circassian
 culture = misri
 culture = mashriqi
-culture = turkish
 religion = sunni
 government = absolute_monarchy
 plurality = 5.0

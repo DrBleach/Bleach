@@ -1318,3 +1318,26 @@ country_event = {
         random_owned = { limit = { province_id = 614 } assimilate = yes }
     }
 }
+
+country_event = {
+    id = 999999000
+    title = "EVTNAME999999000"
+    desc = "EVTDESC999999000"
+    picture = "danishgovernment"
+    trigger = {
+        year = 1938
+        OR = {
+            tag = AUS
+            tag = KUK
+        }
+    fire_only_once = yes
+    mean_time_to_happen = {
+         months = 1
+    }
+
+    option = {
+        name = "EVTOPTA999999000"
+        release_vassal = GRE
+        release_vassal = ALB
+    }
+}

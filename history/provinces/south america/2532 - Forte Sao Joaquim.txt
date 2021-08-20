@@ -1,5 +1,6 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
+owner = POR
+controller = POR
+add_core = GUY
+colonial = 2
 trade_goods = cattle
 life_rating = 31

@@ -1,10 +1,6 @@
-owner = ENT
-
-controller = ENT
-
-add_core = ENT
-add_core = ARC
-
+owner = LPL
+controller = LPL
+add_core = LPL
 trade_goods = cattle
 life_rating = 35
 1861.1.1 = {
