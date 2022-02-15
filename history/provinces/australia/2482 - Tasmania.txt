@@ -1,5 +1,6 @@
-owner = AOT
-controller = AOT
-add_core = AOT
+owner = SWE
+controller = SWE
+add_core = FRO
 trade_goods = timber
-life_rating = 31
+life_rating = 35
+colonial = 2

@@ -1,6 +1,7 @@
-owner = DJA
-controller = DJA
-add_core = DJA
+owner = SWE
+controller = SWE
+add_core = FRO
 trade_goods = grain
 terrain = dryhills
-life_rating = 32
+life_rating = 35
+colonial = 2

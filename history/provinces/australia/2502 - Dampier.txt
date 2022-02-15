@@ -1,4 +1,7 @@
-add_core = DJA
+owner = SWE
+controller = SWE
+add_core = FRO
 trade_goods = grain
 terrain = savanna
-life_rating = 31
+life_rating = 30
+colonial = 2

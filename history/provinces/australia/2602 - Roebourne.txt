@@ -1,4 +1,4 @@
-add_core = DJA
+add_core = FRO
 trade_goods = grain
 terrain = semidesert
-life_rating = 31
+life_rating = 30

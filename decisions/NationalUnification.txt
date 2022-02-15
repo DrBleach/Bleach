@@ -334,6 +334,7 @@ political_decisions = {
                 tag = SGF
                 tag = NGF
                 tag = CZH
+		tag = BYZ
             }
         }
 

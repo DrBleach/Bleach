@@ -1,3 +1,6 @@
-add_core = DJA
+owner = SWE
+controller = SWE
+add_core = FRO
 trade_goods = cattle
-life_rating = 15
+life_rating = 20
+colonial = 2
