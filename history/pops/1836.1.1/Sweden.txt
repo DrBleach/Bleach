@@ -102,7 +102,7 @@
     }
 
     labourers = {
-        culture = norwegian
+        culture = swedish
         religion = orthodox
         size = 1100
     }
@@ -646,9 +646,15 @@
     }
 
     farmers = {
+        culture = danish
+        religion = orthodox
+        size = 20000
+    }
+
+    farmers = {
         culture = swedish
         religion = orthodox
-        size = 69125
+        size = 49125
     }
 }
 #Karlskrona (259000/64750 POPS)
@@ -680,7 +686,13 @@
     farmers = {
         culture = swedish
         religion = orthodox
-        size = 60625
+        size = 40625
+    }
+
+    farmers = {
+        culture = danish
+        religion = orthodox
+        size = 20000
     }
 
 }

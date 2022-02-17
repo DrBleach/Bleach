@@ -3,7 +3,7 @@
 #Oulu (64000/16000 POPS)
 336 = {
     bureaucrats = {
-        culture = finnish
+        culture = swedish
         religion = orthodox
         size = 150
     }
@@ -35,7 +35,13 @@
     farmers = {
         culture = finnish
         religion = orthodox
-        size = 14725
+        size = 10000
+    }
+
+    farmers = {
+        culture = swedish
+        religion = orthodox
+        size = 4725
     }
 }
 #Kajaani (16000/4000 POPS)
@@ -87,13 +93,19 @@
     farmers = {
         culture = finnish
         religion = orthodox
-        size = 8425
+        size = 5000
     }
 
     farmers = {
         culture = sami
         religion = orthodox
-        size = 1075
+        size = 3075
+    }
+
+    farmers = {
+        culture = swedish
+        religion = orthodox
+        size = 1425
     }
 }
 #Karelia Region (524000)
@@ -519,7 +531,7 @@
 #Vaasa (272000/68000 POPS)
 346 = {
     clergymen = {
-        culture = finnish
+        culture = swedish
         religion = orthodox
         size = 475
     }
@@ -539,7 +551,7 @@
     farmers = {
         culture = finnish
         religion = orthodox
-        size = 47925
+        size = 37925
     }
 
     aristocrats = {
@@ -569,19 +581,19 @@
     farmers = {
         culture = swedish
         religion = orthodox
-        size = 13675
+        size = 23675
     }
 }
 #Tampere (84000/21000 POPS)
 347 = {
     clergymen = {
-        culture = finnish
+        culture = swedish
         religion = orthodox
         size = 150
     }
 
     artisans = {
-        culture = finnish
+        culture = swedish
         religion = orthodox
         size = 1100
     }
@@ -595,7 +607,7 @@
     farmers = {
         culture = finnish
         religion = orthodox
-        size = 18650
+        size = 8650
     }
 
     aristocrats = {
@@ -625,7 +637,7 @@
     farmers = {
         culture = swedish
         religion = orthodox
-        size = 600
+        size = 10600
     }
 }
 #Svealand Region (11000)

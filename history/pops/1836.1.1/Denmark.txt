@@ -14,7 +14,7 @@
     }
 
     artisans = {
-        culture = norwegian
+        culture = swedish
         religion = orthodox
         size = 135
     }
@@ -25,7 +25,7 @@
         size = 775
     }
     farmers = {
-        culture = norwegian
+        culture = swedish
         religion = orthodox
         size = 500
     }
@@ -428,19 +428,19 @@
 #Bornholm (16000/4000 POPS)
 374 = {
     clergymen = {
-        culture = danish
+        culture = swedish
         religion = orthodox
         size = 50
     }
 
     artisans = {
-        culture = danish
+        culture = swedish
         religion = orthodox
         size = 400
     }
 
     soldiers = {
-        culture = danish
+        culture = swedish
         religion = orthodox
         size = 50
     }
@@ -448,7 +448,13 @@
     farmers = {
         culture = danish
         religion = orthodox
-        size = 3500
+        size = 2500
+    }
+
+    farmers = {
+        culture = swedish
+        religion = orthodox
+        size = 1000
     }
 
 }
