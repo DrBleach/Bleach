@@ -89,7 +89,7 @@ alliance = {
         end_date = 1936.1.1
     }
 alliance = {
-        first = SIC
+        first = ALB
         second = SPA
         start_date = 1835.1.1
         end_date = 1936.1.1
@@ -131,7 +131,7 @@ alliance = {
     end_date = 1936.1.1
 }
 alliance = {
-    first = SIC
+    first = ALB
     second = PAP
     start_date = 1835.1.1
     end_date = 1936.1.1

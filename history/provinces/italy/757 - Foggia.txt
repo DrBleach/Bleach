@@ -1,11 +1,7 @@
-owner = SIC
-controller = SIC
+owner = ALB
+controller = ALB
 add_core = SIC
 add_core = ITA
+add_core = ALB
 trade_goods = fish
 life_rating = 35
-1861.1.1 = {
-    controller = ITA
-    owner = ITA
-    add_core = ITA
-}
