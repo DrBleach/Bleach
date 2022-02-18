@@ -48,7 +48,6 @@ political_decisions = {
                     OR = {
                         has_pop_culture = croat
                         has_pop_culture = north_italian
-                        has_pop_culture = serb
                         has_pop_culture = gypsy
                     }
                 }
@@ -181,7 +180,7 @@ political_decisions = {
             tag = KUK
             NOT = {
                 owns = 619
-                exists = HUN
+                exists = CZH
             }
         }
 
@@ -218,43 +217,6 @@ political_decisions = {
             change_tag = CZH
         }
     }
-    release_dalmatia = {
-        potential = {
-            OR = {
-                tag = AUS
-                tag = KUK
-            }
-            owns = 781
-            ai = yes
-            NOT = {
-                exists = DLM
-                has_country_flag = released_dalmatia
-            }
-        }
-
-        allow = {
-            NOT = { owns = 774 } #Senj
-            NOT = { owns = 784 } #Bihac
-            NOT = { owns = 800 } #Ulcinj
-        }
-
-        effect = {
-            set_country_flag = released_dalmatia
-            prestige = 5
-            any_owned = {
-                limit = { is_core = DLM }
-                secede_province = DLM
-            }
-            create_vassal = DLM
-            create_alliance = DLM
-            diplomatic_influence = { who = DLM value = 200 }
-            relation = { who = DLM value = 200 }
-        }
-
-        ai_will_do = {
-            factor = 1
-        }
-    }
     propose_danube_federation = {
         potential = {
             tag = KUK
@@ -262,14 +224,13 @@ political_decisions = {
             owns = 641
             OR = {
                 any_owned_province = { is_core = CZH }
-                any_owned_province = { is_core = SER }
                 any_owned_province = { is_core = HUN }
                 any_owned_province = { is_core = CRO }
                 any_owned_province = { is_core = BAN }
             }
             NOT = {
                 exists = DNB
-                exists = SZH
+                exists = CZH
                 has_global_flag = proposed_danube_federation
             }
         }
@@ -373,11 +334,9 @@ political_decisions = {
             release_vassal = BAN
             release_vassal = HUN
             release_vassal = CRO
-            release_vassal = SER
             inherit = BAN
             inherit = HUN
             inherit = CRO
-            inherit = SER
         }
 
         ai_will_do = {
@@ -429,7 +388,6 @@ political_decisions = {
             remove_accepted_culture = hungarian
             remove_accepted_culture = slovak
             remove_accepted_culture = western_slavic
-            remove_accepted_culture = serb
             remove_accepted_culture = croat
             remove_accepted_culture = gypsy
             AUS_612 = { add_core = AUS }
@@ -510,10 +468,9 @@ political_decisions = {
         effect = {
             set_country_flag = embraced_croats
             add_accepted_culture = croat
-            add_accepted_culture = serb
             prestige = -25
             any_pop = {
-                limit = { has_pop_culture = serb }
+                limit = { has_pop_culture = croats }
                 militancy = -4
                 consciousness = -4
             }

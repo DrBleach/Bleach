@@ -1,5 +1,5 @@
-owner = SER
-controller = SER
+owner = BAN
+controller = BAN
 add_core = SER
 add_core = BAN
 trade_goods = grain

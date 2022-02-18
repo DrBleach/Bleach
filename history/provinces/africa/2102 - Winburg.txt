@@ -1,12 +1,7 @@
-owner = KRN
-controller = KRN
-add_core = KRN
+owner = ORA
+controller = ORA
+add_core = ORA
+add_core = SAF
 trade_goods = fruit
 life_rating = 35
 terrain = mining_district
-1861.1.1 = {
-    owner = ORA
-    controller = ORA
-    add_core = SAF
-    remove_core = MAT
-}

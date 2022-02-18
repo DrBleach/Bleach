@@ -64,12 +64,6 @@ vassal = {
 #Austro-sphere
 substate = {
     first = AUS
-    second = SER
-    start_date = 1498.1.1
-    end_date = 1888.1.1
-}
-substate = {
-    first = AUS
     second = CRO
     start_date = 1465.1.1
     end_date = 1893.1.1

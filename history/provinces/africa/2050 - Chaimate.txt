@@ -1,5 +1,6 @@
-owner = GAZ
-controller = GAZ
+owner = NAL
+controller = NAL
+add_core = NAL
 add_core = GAZ
 terrain = savanna
 trade_goods = cattle

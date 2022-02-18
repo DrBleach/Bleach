@@ -2,6 +2,30 @@
 #uncolonized in 1836
 #Maputo (244000/61000)
 2049 = {
+    clergymen = {
+        culture = boer
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = boer
+        religion = orthodox
+        size = 100
+    }
+
+    soldiers = {
+        culture = boer
+        religion = orthodox
+        size = 100
+    }
+
+    farmers = {
+        culture = boer
+        religion = orthodox
+        size = 13690
+    }
+
     aristocrats = {
         culture = nguni
         religion = animist
@@ -29,7 +53,7 @@
     farmers = {
         culture = nguni
         religion = animist
-        size = 42250
+        size = 10250
     }
 
     slaves = {
@@ -65,7 +89,7 @@
     farmers = {
         culture = tonga
         religion = animist
-        size = 21525
+        size = 11525
     }
 
     slaves = {
@@ -76,6 +100,30 @@
 }
 #Chaimate (280000/70000 POPS)
 2050 = {
+    clergymen = {
+        culture = boer
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = boer
+        religion = orthodox
+        size = 100
+    }
+
+    soldiers = {
+        culture = boer
+        religion = orthodox
+        size = 100
+    }
+
+    farmers = {
+        culture = boer
+        religion = orthodox
+        size = 7690
+    }
+
     aristocrats = {
         culture = nguni
         religion = animist
@@ -103,15 +151,8 @@
     farmers = {
         culture = nguni
         religion = animist
-        size = 23250
+        size = 16250
     }
-
-    slaves = {
-        culture = nguni
-        religion = animist
-        size = 5000
-    }
-
     aristocrats = {
         culture = tonga
         religion = animist
@@ -141,27 +182,32 @@
         religion = animist
         size = 19075
     }
-
-    slaves = {
-        culture = tonga
-        religion = animist
-        size = 16000
-    }
 }
 #Inhambane (176000/44000 POPS)
 2051 = {
-    aristocrats = {
-        culture = nguni
-        religion = animist
-        size = 150
-    }
-
     clergymen = {
-        culture = nguni
-        religion = animist
-        size = 125
+        culture = boer
+        religion = orthodox
+        size = 100
     }
 
+    artisans = {
+        culture = boer
+        religion = orthodox
+        size = 100
+    }
+
+    soldiers = {
+        culture = boer
+        religion = orthodox
+        size = 100
+    }
+
+    farmers = {
+        culture = boer
+        religion = orthodox
+        size = 5690
+    }
     artisans = {
         culture = nguni
         religion = animist
@@ -177,13 +223,7 @@
     farmers = {
         culture = nguni
         religion = animist
-        size = 25975
-    }
-
-    slaves = {
-        culture = nguni
-        religion = animist
-        size = 2000
+        size = 15975
     }
 
     aristocrats = {
@@ -213,13 +253,7 @@
     farmers = {
         culture = tonga
         religion = animist
-        size = 30600
-    }
-
-    slaves = {
-        culture = tonga
-        religion = animist
-        size = 5000
+        size = 20600
     }
 }
 #Massekisse (172000/43000 POPS)

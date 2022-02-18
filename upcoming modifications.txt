@@ -2,11 +2,10 @@ Central points (in order if possible, possibly up to change):
 Swedish Empire going strong/pop fixes (nothing much else to add, so check)
 Orthodox Religious Schism akin to Catholic-Protestant one (Lutheranism remains dominant in Germany, seen as "German Christianity") (check)
 Southern Italy falls under Albanian control, after splinter of Austrian Empire (check)
-Finnish Boers
-Buff Moldavia
-Roma Banat
+Finnish Boers (check)
+Buff Moldavia (check)
 Ruthenian Empire vs. Russian Empire
-Moravian state in central europe
+Austrian Empire rework (partially check)
 Angevin collapse under Cromwell, leading to a Franco-Gaelo-English split.
 Kingdom of Brandenburg conquers all of germany, but suffers a succession dispute, collapsing it, Wurtemburg is the supreme german power
 North Italian League under de Medici's
