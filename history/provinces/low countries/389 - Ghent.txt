@@ -1,9 +1,7 @@
-owner = PRU
-controller = PRU
+owner = WLL
+controller = WLL
 add_core = NET
-add_core = PRU
 add_core = WLL
-add_core = NGF
 trade_goods = wool
 life_rating = 35
 1861.1.1 = { railroad = 3 }

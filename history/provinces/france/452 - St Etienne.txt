@@ -1,7 +1,6 @@
-owner = WLL
-controller = WLL
+owner = OCC
+controller = OCC
 add_core = OCC
-add_core = WLL
 add_core = FRA
 trade_goods = coal
 life_rating = 32

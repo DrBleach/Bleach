@@ -1,6 +1,5 @@
-owner = ENL
-controller = ENL
-add_core = ENL
+owner = SWE
+controller = SWE
 add_core = SWE
 add_core = IRE
 trade_goods = fish

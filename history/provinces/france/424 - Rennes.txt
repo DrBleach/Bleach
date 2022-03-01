@@ -1,6 +1,7 @@
 owner = ENL
 controller = ENL
 add_core = FRA
+add_core = BRT
 add_core = ENL
 
 trade_goods = grain

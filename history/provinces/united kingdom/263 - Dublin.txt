@@ -1,6 +1,5 @@
-owner = ENL
-controller = ENL
-add_core = ENL
+owner = IRE
+controller = IRE
 add_core = IRE
 trade_goods = grain
 naval_base = 1

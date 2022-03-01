@@ -1,5 +1,5 @@
-owner = ENL
-controller = ENL
+owner = WLL
+controller = WLL
 add_core = WLL
 add_core = ENL
 add_core = FRA

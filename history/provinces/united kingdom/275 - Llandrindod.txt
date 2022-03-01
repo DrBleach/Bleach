@@ -1,7 +1,8 @@
-owner = ENL
-controller = ENL
-add_core = ENL
+owner = IRE
+controller = IRE
 add_core = IRE
+add_core = ENL
+add_core = ENG
 trade_goods = sulphur
 life_rating = 35
 party_loyalty = {

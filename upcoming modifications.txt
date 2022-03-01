@@ -1,33 +1,32 @@
 Central points (in order if possible, possibly up to change):
-Swedish Empire going strong/pop fixes (nothing much else to add, so check)
-Orthodox Religious Schism akin to Catholic-Protestant one (Lutheranism remains dominant in Germany, seen as "German Christianity") (check)
-Southern Italy falls under Albanian control, after splinter of Austrian Empire (check)
-Finnish Boers (check)
-Buff Moldavia (check)
-Ruthenian Empire vs. Russian Empire
-Austrian Empire rework (partially check)
-Angevin collapse under Cromwell, leading to a Franco-Gaelo-English split.
-Kingdom of Brandenburg conquers all of germany, but suffers a succession dispute, collapsing it, Wurtemburg is the supreme german power
-North Italian League under de Medici's
-Mamluk Sultanate collapses to outside powers, leaving two Mamluk states in Syria and Eastern Libya + Western Egypt
-Egypt under control of Copts, who follow the western variant of Orthodoxy
-Ethiopia has an empire in Eastern Africa
-Spain, due to a lack of colonies influencing their reconquista spirit, colonize morocco instead, leading to a hispanic morocco
-Hafsids take over some algerian and Mamluk lands
-Songhai collapses in Africa, but remains in Bruhzil, which suffers a similar splinter
-Timurids lose grasp on empire, becoming the rump state of Ajam once again. Iraq is taken by Mamluk state,
+--Swedish Empire going strong/pop fixes (nothing much else to add, so check)
+--Orthodox Religious Schism akin to Catholic-Protestant one (Lutheranism remains dominant in Germany, seen as "German Christianity") (check)
+--Southern Italy falls under Albanian control, after splinter of Austrian Empire (check)
+--Finnish Boers (check)
+--Buff Moldavia (check)
+-/Ruthenian Empire vs. Russian Empire power balance (partially check)
+-/Austrian Empire rework (partially check)
+-/Angevin collapse under Cromwell, leading to a Franco-Gaelo-English split (partially check)
+-Kingdom of Brandenburg conquers all of germany, but suffers a succession dispute, collapsing it, Wurtemburg is the supreme german power
+-North Italian League under de Medici's
+-Mamluk Sultanate collapses to outside powers, leaving two Mamluk states in Syria and Eastern Libya + Western Egypt
+-Egypt under control of Copts, who follow the western variant of Orthodoxy
+-Ethiopia has an empire in Eastern Africa
+-Spain, due to a lack of colonies influencing their reconquista spirit, colonize morocco instead, leading to a hispanic morocco
+-Hafsids take over some algerian and Mamluk lands
+-Songhai collapses in Africa, but remains in Bruhzil, which suffers a similar splinter
+-Timurids lose grasp on empire, becoming the rump state of Ajam once again. Iraq is taken by Mamluk state,
 Khorasan falls under native rule, Afghanistan gets seized by an uzbek tribe, Sindh secedes with Balochistan, Punjab secedes, Kokand secedes with slight expansion
 Turkmenistan is under Khorasan, Eastern Arabia falls under Ibadi Muscati control, Southern Persia falls under Qashqai control
-Western Arabia falls under control of Hashemites (Hejaz) and Saidis (Yemen)
-India will have country renames and culture shifts, but will stay the same
-Indochina will be done
-Malaya will be broken up
-Shrink Russia a bit (no reason it should be this powerful)
-change up warlord china + tibet
-Fix up western Nova Europa (aka former Japanese colonies)
-Weaken Escaranes/Texas
-Divide German Canada (Holsatia) and Metis (Gemischter) into many autonomous republics, with Gemischter being more inland, and Holsatians being coastal (and leading
+-Western Arabia falls under control of Hashemites (Hejaz) and Saidis (Yemen)
+-India will have country renames and culture shifts, but will stay the same
+-Indochina will be done
+-Malaya will be broken up
+-change up warlord china + tibet
+-Fix up western Nova Europa (aka former Japanese colonies)
+-Weaken Escaranes/Texas
+-Divide German Canada (Holsatia) and Metis (Gemischter) into many autonomous republics, with Gemischter being more inland, and Holsatians being coastal (and leading
 more states, while being less populous)
-Reduce Breton American state (Gallizea)
-Spice up Malayan, Portuguese, and native South America
-Do shit to spice up Africa, and make it less generic
+-Reduce Breton American state (Gallizea)
+-Spice up Malayan, Portuguese, and native South America
+-Do shit to spice up Africa, and make it less generic

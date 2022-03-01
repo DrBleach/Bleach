@@ -1,9 +1,7 @@
-capital = 994
+capital = 1028
 primary_culture = russian
 culture = byelorussian
-culture = ukrainian
 culture = ugrian
-culture = alaskan
 religion = orthodox
 government = absolute_monarchy
 plurality = 5.0

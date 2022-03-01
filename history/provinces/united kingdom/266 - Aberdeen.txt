@@ -1,7 +1,5 @@
-owner = ENL
-controller = ENL
-add_core = ENL
-add_core = SCO
+owner = IRE
+controller = IRE
 add_core = IRE
 trade_goods = wool
 life_rating = 35

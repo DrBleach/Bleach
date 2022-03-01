@@ -1,6 +1,7 @@
 owner = ENL
 controller = ENL
 add_core = ENL
+add_core = ENG
 add_core = BRT
 trade_goods = iron
 life_rating = 35
